@@ -11,4 +11,4 @@ Oral presentation, ICML 2017, Sydney.
 AI/ML Seminar, Department of Computer Science, UC Irvine, Nov 2016.  
 [[slides]]({{site.baseurl}}/static/slides/variational-hmc.pdf)  
 Joint Statistical Meetings, Vancouver, Aug 2018.  
-[[slide]]({{site.baseurl}}/static/slide/vhmc.pdf)
+[[slides]]({{site.baseurl}}/static/slides/vhmc.pdf)
