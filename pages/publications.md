@@ -5,11 +5,11 @@ title: Publications
 
 - [Non-bifurcating Phylogenetic Tree Inference via The Adaptive LASSO](https://arxiv.org/abs/1805.11073)  
 Cheng Zhang\*, Vu Dinh\*, Frederick A. Matsen IV  
-_ArXiv:1805.11073_
+_Journal of the American Statistical Association, in revision_
 
 - [Generalizing Tree Probability Estimation via Bayesian Networks](https://arxiv.org/abs/1805.07834)  
 Cheng Zhang, Frederick A. Matsen IV  
-_Arxiv:1805.07834_
+_To appear in Advances in Neural Information Processing Systems, 2018_
 
 - [Variational Hamiltonian Monte Carlo via Score Matching](https://projecteuclid.org/download/pdfview_1/euclid.ba/1500948232)  
 Cheng Zhang, Babak Shahbaba, Hongkai Zhao  
