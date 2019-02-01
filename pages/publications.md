@@ -3,13 +3,17 @@ layout: page
 title: Publications
 ---
 
+- [Variational Bayesian Phylogenetic Inference](https://openreview.net/forum?id=SJVmjjR9FX)
+Cheng Zhang, Frederick A. Matsen IV
+_To appear in Proceedings of the 7th International Conference on Learning Representations (ICLR 2019)_
+
 - [Non-bifurcating Phylogenetic Tree Inference via The Adaptive LASSO](https://arxiv.org/abs/1805.11073)  
 Cheng Zhang\*, Vu Dinh\*, Frederick A. Matsen IV  
 _Journal of the American Statistical Association, in revision_
 
 - [Generalizing Tree Probability Estimation via Bayesian Networks](https://arxiv.org/abs/1805.07834)  
 Cheng Zhang, Frederick A. Matsen IV  
-_To appear in Advances in Neural Information Processing Systems, 2018_  
+_In Proceedings of the 31th Neural Information Processing Systems (NeurIPS 2018)_  
 [[code]](https://github.com/zcrabbit/sbn) [[poster]]({{site.baseurl}}/static/posters/sbn_nips_poster.pdf)
 
 - [Variational Hamiltonian Monte Carlo via Score Matching](https://projecteuclid.org/download/pdfview_1/euclid.ba/1500948232)  
@@ -27,5 +31,5 @@ _Computational Statistics 32(1), 2017, pp. 253-279_
 
 - [Probabilistic Path Hamiltonian Monte Carlo](http://proceedings.mlr.press/v70/dinh17a/dinh17a.pdf)  
 Vu Dinh\*, Arman Bilge\*, Cheng Zhang\*, Frederick A. Matsen IV  
-_ICML 2017_  
+_In Proceedings of the 34th International Conference on Machine Learning (ICML 2017)_  
 [[code]](https://github.com/zcrabbit/PhyloInfer) [[poster]]({{site.baseurl}}/static/posters/pphmc.pdf)
