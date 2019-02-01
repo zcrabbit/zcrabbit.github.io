@@ -13,7 +13,7 @@ _Journal of the American Statistical Association, in revision_
 
 - [Generalizing Tree Probability Estimation via Bayesian Networks](https://arxiv.org/abs/1805.07834)  
 Cheng Zhang, Frederick A. Matsen IV  
-_In Proceedings of the 31th Neural Information Processing Systems (NeurIPS 2018)_  
+_In Proceedings of the 32th Neural Information Processing Systems (NeurIPS 2018)_  
 [[code]](https://github.com/zcrabbit/sbn) [[poster]]({{site.baseurl}}/static/posters/sbn_nips_poster.pdf)
 
 - [Variational Hamiltonian Monte Carlo via Score Matching](https://projecteuclid.org/download/pdfview_1/euclid.ba/1500948232)  
