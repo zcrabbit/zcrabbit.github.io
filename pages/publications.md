@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-- [Variational Bayesian Phylogenetic Inference](https://openreview.net/forum?id=SJVmjjR9FX)  
+- [Variational Bayesian Phylogenetic Inference](https://openreview.net/pdf?id=SJVmjjR9FX)  
 Cheng Zhang, Frederick A. Matsen IV.  
 _To appear in Proceedings of the 7th International Conference on Learning Representations (ICLR 2019)_
 
