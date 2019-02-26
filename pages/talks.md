@@ -3,6 +3,10 @@ layout: page
 title: Talks
 ---
 
+- Scalable Bayesian Inference for Inverse Problems  
+Oral presentation, SIAM CSE 2019, Spokane  
+[[slides]]({{sites.baseurl}}/static/slides/CSE19_talk.pdf)
+
 - Generalizing Tree Probability Estimation via Bayesian Networks  
 Spotlight presentation, NeurIPS 2018, Montreal.  
 [[slides]](https://nips.cc/media/Slides/nips/2018/220cd(04-15-30)-04-16-10-12583-Generalizing_Tr.pdf) [[video]](https://www.videoken.com/embed/1D8mC89k8e8?tocitem=50)
