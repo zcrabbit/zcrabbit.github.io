@@ -1,5 +1,6 @@
 ---
-layout: page
-title: Blog
+layout: list
+title: Blogs
+tag: blog
 ---
 
