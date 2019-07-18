@@ -1,5 +1,5 @@
 ---
-layout: list
+layout: post
 title: Blogs
 tag: blog
 ---
