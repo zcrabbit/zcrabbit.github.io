@@ -6,7 +6,7 @@ title: Cheng's Blog
 <!-- <h1> {{ page.title }} </h1>
 <ul class="posts">
 	{% for post in site.posts %}
-	<li><span>{{ post.date | date_to_string }}</span>
+	<li><span>{{ post.date | date: '%b %d, %Y'}}</span>
 		<a href="{{ post.url }}" title="{{ post.title }}"> {{ post.title }} </a></li>
 	{% endfor %}
 </ul> -->
@@ -18,17 +18,16 @@ title: Cheng's Blog
 
             <table style="border: 0; margin: auto;">
                 {% for post in site.posts %}
-                <!-- {% if post.tags contains page.tag %} -->
                 <tr style="border: 0;">
                     <td style="border: 0;">
                         {{ post.date | date: '%b %d, %Y' }}
                     </td>
                     <td style="border: 0;">
-                        <a href="{{ post.url }}" style="color: #666;">{{ post.title }}</a>
+                        <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
                     </td>
                 </tr>
 
-                {% endif %}
+                <!-- {% endif %} -->
                 {% endfor %}
             </table>
         </div>
