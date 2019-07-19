@@ -23,11 +23,9 @@ title: Cheng's Blog
                         {{ post.date | date: '%b %d, %Y' }}
                     </td>
                     <td style="border: 0;">
-                        <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+                        <a href="{{ post.url }}" style="color: #666">{{ post.title }}</a>
                     </td>
                 </tr>
-
-                <!-- {% endif %} -->
                 {% endfor %}
             </table>
         </div>
