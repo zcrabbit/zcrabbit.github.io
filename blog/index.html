@@ -11,10 +11,12 @@ title: Cheng's Blog
 	{% endfor %}
 </ul> -->
 
+<body style="font-size: 16px;">
+
 <div class="container" style="margin-top: 50px;">
     <div class="row">
         <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1 col-sm-10 col-sm-offset-1">
-            <h1 style="margin-top: 0px; text-align: center;"> {{ page.title }} </h1>
+            <h2 style="margin-top: 0px; text-align: center;"> {{ page.title }} </h2>
 
             <table style="border: 0; margin: auto;">
                 {% for post in site.posts %}
@@ -31,3 +33,5 @@ title: Cheng's Blog
         </div>
     </div>
 </div>
+
+</body>
