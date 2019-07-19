@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Cheng's Blog
+title: Blog
 ---
 
 <!-- <h1> {{ page.title }} </h1>
@@ -13,16 +13,16 @@ title: Cheng's Blog
 
 <body style="font-size: 16px;">
 
-<h1> {{ page.title }} </h1>
+<!-- <h1> {{ page.title }} </h1> -->
 <ul class="posts">
 	<table style="border: 0; margin: auto;">
 	    {% for post in site.posts %}
 	    <tr style="border: 0;">
-	        <td style="border: 0;">
+	        <td style="border: 10;">
 	            {{ post.date | date: '%b %d, %Y' }}
 	        </td>
-	        <td style="border: 0;">
-	            <a href="{{ post.url }}" style="color: #666">{{ post.title }}</a>
+	        <td style="border: 10;">
+	            <a href="{{ post.url }}">{{ post.title }}</a>
 	        </td>
 	    </tr>
 	    {% endfor %}
