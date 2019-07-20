@@ -81,8 +81,8 @@ JB :
   #
   comments :
     provider : "disqus"
-	disqus:
-		shortname: "zcrabbit-github-io-1"
+	disqus :
+		shortname : "zcrabbit-github-io-1"
 
 
   # Settings for analytics helper
