@@ -24,9 +24,6 @@ production_url : https://zcrabbit.github.io
 # (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)
 markdown: kramdown
 
-disqus:
-	shortname: zcrabbit-github-io-1
-
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
 JB :
