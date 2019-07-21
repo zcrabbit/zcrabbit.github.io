@@ -1,5 +1,6 @@
 ---
 layout: page
+comments: true
 ---
 <!-- {% include JB/setup %}
 {% include themes/twitter/post.html %} -->
@@ -10,10 +11,12 @@ layout: page
 <div class="post">
 	{{ content }}
 	
-	{% include disqus.html %}
+	<!-- {% include disqus.html %} -->
 </div>
 
 
-<!-- <div class="row">
+<div class="row">
+	{% if page.comments %}
 	{% include disqus.html %}
-</div> -->
+	{% endif %}
+</div>
