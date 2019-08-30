@@ -5,7 +5,7 @@ title: Publications
 
 - [Variational Bayesian Phylogenetic Inference](https://openreview.net/pdf?id=SJVmjjR9FX)  
 Cheng Zhang, Frederick A. Matsen IV.  
-_To appear in Proceedings of the 7th International Conference on Learning Representations (ICLR 2019)_  
+_In Proceedings of the 7th International Conference on Learning Representations (ICLR 2019)_  
 [[poster]]({{site.baseurl}}/static/posters/vbpi_iclr_poster.pdf)
 
 - [Non-bifurcating Phylogenetic Tree Inference via The Adaptive LASSO](https://arxiv.org/abs/1805.11073)  
