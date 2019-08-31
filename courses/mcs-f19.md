@@ -9,11 +9,11 @@ author: Cheng Zhang
 ### Basic Info
 - Instructor: Cheng Zhang (<chengzhang@math.pku.edu.cn>)
 - Class times: Monday 6:40-8:30pm, odd Wednesday 8:00-9:50am, Classroom Building No.3, Room 504  
-- Office hours: Wednesday 10:00-11:00am or by appointment
+- Office hours: Wednesday 10:00-11:00am or by appointment, 1279 Science Building No.1
 - Piazza: <https://piazza.com/peking_university/fall2019/00113730>
   
 ### Description and Objectives
-Computational statistics is a branch of mathematical sciences focusing on efficient numerical methods for problems arising in statistics. The goal of this course is to provide students an introduction to a variety of modern computational statistical techniques and the role of computation as a tool of discovery. Topics include numerical optimization in statistical inference including expectation-maximization (EM) algorithm, Fisher scoring, gradient descent and stochastic gradient descent, etc., numerical integration approaches include basic numerical quadrature and Monte Carlo methods, and approximate Bayesian inference methods including Markov chain Monte Carlo , variational inference and their scalable counterparts, with applications in statistical machine learning, computational biology and other related fields. Additional topics may vary. Coursework will include computer assignments.
+Computational statistics is a branch of mathematical sciences focusing on efficient numerical methods for problems arising in statistics. The goal of this course is to provide students an introduction to a variety of modern computational statistical techniques and the role of computation as a tool of discovery. Topics include numerical optimization in statistical inference including expectation-maximization (EM) algorithm, Fisher scoring, gradient descent and stochastic gradient descent, etc., numerical integration approaches include basic numerical quadrature and Monte Carlo methods, and approximate Bayesian inference methods including Markov chain Monte Carlo, variational inference and their scalable counterparts, with applications in statistical machine learning, computational biology and other related fields. Additional topics may vary. Coursework will include computer assignments.
 
 ### Prerequisites
 Multivariate calculus, linear algebra, graduate level courses in probability and statistics, applied stochastic processes
