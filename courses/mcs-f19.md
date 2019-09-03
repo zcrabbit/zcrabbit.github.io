@@ -9,7 +9,7 @@ author: Cheng Zhang
 ### Basic Info
 - Instructor: Cheng Zhang (<chengzhang@math.pku.edu.cn>)
 - Class times: Monday 6:40-8:30pm, odd Wednesday 8:00-9:50am, Classroom Building No.3, Room 504  
-- Office hours: Wednesday 10:00-11:00am or by appointment, 1279 Science Building No.1
+- Office hours: Thursday 3:00-5:00pm or by appointment, 1279 Science Building No.1
 - Piazza: <https://piazza.com/peking_university/fall2019/00113730>
   
 ### Description and Objectives
@@ -51,14 +51,14 @@ You may structure your project exploration around a general problem type, algori
 | Week  | Date | Topics       |    Notes   |
 | ----- |------| -----        |   -----    |
 | 1     |09/09 | Introduction |            |
-|       |09/11 | Newton's Method, Fisher Scoring, Gradient Descent|   |
-| 2     |09/16 | Stochastic Gradient Descent |      <!--PS1 out, due 09/25-->
+|       |09/11 | Convex Optimization, Gradient Descent, Iterative Reweighted Least Squares|   |
+| 2     |09/16 | Advanced Gradient Descent Methods |      <!--PS1 out, due 09/25-->
 | 3     |09/23 | Numerical Quadrature, Monte Carlo Methods|   |
 |       |09/25 | Exact Simulation, Variance Reduction Techniques|    |
 | 4     |09/30 | -- |   National Day  |
 | 5     |10/07 | Metropolis-Hastings, Gibbs Sampling, Slice Sampling |     |
 |       |10/09 | Improving Mixing and Convergence, Tempering, Adaptive MCMC|       <!--PS2 out, due 10/23-->
-| 6     |10/14 | Modern MCMC Methods |     |
+| 6     |10/14 | Hamiltonian Monte Carlo |     |
 | 7     |10/21 | Scalable MCMC Methods  |       |
 |       |10/23 | Expectation Maximization |         |
 | 8     |10/28 | EM Variants |       <!--PS3 out, due 11/11  -->

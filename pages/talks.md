@@ -3,6 +3,9 @@ layout: page
 title: Talks
 ---
 
+- Variational Bayesian Phylogenetic Inference  
+Invited talk, CAIMS 2019, Whistler, BC
+
 - Scalable Bayesian Inference for Inverse Problems  
 Oral presentation, SIAM CSE 2019, Spokane  
 [[slides]]({{sites.baseurl}}/static/slides/CSE19_talk.pdf)
