@@ -37,12 +37,12 @@ There will be `7` free late days in total, use them in your own ways. Afterwards
 We will use python during the course. A good Python tutorial is available at <http://www.scipy-lectures.org/>. You may also find another shorter tutorial useful at <http://cs231n.github.io/python-numpy-tutorial/>. If you have never used Python before, I recommend using Anaconda Python 3.7 <https://www.continuum.io/>.
 
 ### Lectures
-<!-- - 09/09/2019: [Lecture 1 - Introduction]({{sites.baseurl}}/static/slides/mcs_lec01.pdf) -->
+- 09/09/2019: [Lecture 1 - Introduction]({{sites.baseurl}}/static/slides/mcs_fall19/lec01.pdf)
 
 ### Assignments
 
 ### Final Project
-You may structure your project exploration around a general problem type, algorithm, or data set, but should explore around your problem, testing thoroughly or comparing to alternatives. You should submit a project proposal that briefly describe your project concept and goals in one page by 11/04. You should turn in a write-up (< 10 pages) describing your project and its outcomes, similar to a research-level publication. I suggest the latex styles for [NeuIPS](https://nips.cc/Conferences/2019/PaperInformation/StyleFiles) or [ICLR](https://iclr.cc/Conferences/2019/CallForPapers). There will be in class project presentation at the end of the term. Not presenting your projects will be taken as voluntarily `giving up` the opportunity for the final write-ups.
+You may structure your project exploration around a general problem type, algorithm, or data set, but should explore around your problem, testing thoroughly or comparing to alternatives. You may work on the project as teams. Each team may have 2-3 people. Please form you team by the end the 4th week. You should submit a project proposal that briefly describe your project concept and goals in one page by 11/04. You should turn in a write-up (< 10 pages) describing your project and its outcomes, similar to a research-level publication. I suggest the latex styles for [NeurIPS](https://nips.cc/Conferences/2019/PaperInformation/StyleFiles) or [ICLR](https://iclr.cc/Conferences/2019/CallForPapers). There will be in class project presentation at the end of the term. Not presenting your projects will be taken as voluntarily `giving up` the opportunity for the final write-ups.
 
 
 
