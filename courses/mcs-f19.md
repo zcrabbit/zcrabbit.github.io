@@ -38,6 +38,8 @@ We will use python during the course. A good Python tutorial is available at <ht
 
 ### Lectures
 - 09/09/2019: [Lecture 1 - Introduction]({{sites.baseurl}}/static/slides/mcs_fall19/lec01.pdf)
+- 09/11/2019: [Lecture 2 - Optimization]({{sites.baseurl}}/static/slides/mcs_fall19/lec02.pdf)  
+  Textbook on convex optimization: <https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf>
 
 ### Assignments
 
