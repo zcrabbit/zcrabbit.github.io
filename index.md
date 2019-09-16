@@ -30,4 +30,4 @@ Examples of subjects of interest including:
 
 - Scalable MCMC and variational approaches for large-scale Bayesian inference. 
 - Graphical modeling of discrete and structured objects.
-- Efficient Bayesian phylogenetic inference algorithms, including both variational and Monte Carlo approaches.
+- Efficient Bayesian phylogenetic inference algorithms, including both variational and Monte Carlo methods.

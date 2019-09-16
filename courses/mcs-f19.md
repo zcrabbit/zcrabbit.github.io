@@ -40,6 +40,7 @@ We will use python during the course. A good Python tutorial is available at <ht
 - 09/09/2019: [Lecture 1 - Introduction]({{sites.baseurl}}/static/slides/mcs_fall19/lec01.pdf)
 - 09/11/2019: [Lecture 2 - Optimization]({{sites.baseurl}}/static/slides/mcs_fall19/lec02.pdf)  
   Textbook on convex optimization: <https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf>
+- 09/16/2019: [Lecture 3 - Advanced Gradient Methods]({{sites.baseurl}}/static/slides/mcs_fall19/lec03.pdf)
 
 ### Assignments
 
