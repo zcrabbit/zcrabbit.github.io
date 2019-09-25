@@ -42,13 +42,13 @@ We will use python during the course. A good Python tutorial is available at <ht
   Textbook on convex optimization: <https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf>
 - 09/16/2019: [Lecture 3 - Advanced Gradient Methods]({{sites.baseurl}}/static/slides/mcs_fall19/lec03.pdf)
 - 09/23/2019: [Lecture 4 - Numerical Integration]({{sites.baseurl}}/static/slides/mcs_fall19/lec04.pdf)
-- 09/25/2019: [Lecture 5 - Advance Monte Carlo]({{sites.baseurl}}/static/slides/mcs_fall19/lec05.pdf)
+- 09/25/2019: [Lecture 5 - Advanced Monte Carlo]({{sites.baseurl}}/static/slides/mcs_fall19/lec05.pdf)
 
 ### Assignments
 - 09/23/2019: [Homework 1]({{sites.baseurl}}/static/slides/mcs_fall19/hw01.pdf), **Due** `10/07/2019`
 
 ### Final Project
-You may structure your project exploration around a general problem type, algorithm, or data set, but should explore around your problem, testing thoroughly or comparing to alternatives. You may work on the project as teams. Each team may have 2-3 people. Please form you team by the end the 4th week. You should submit a project proposal that briefly describe your project concept and goals in one page by 11/04. You should turn in a write-up (< 10 pages) describing your project and its outcomes, similar to a research-level publication. I suggest the latex styles for [NeurIPS](https://nips.cc/Conferences/2019/PaperInformation/StyleFiles) or [ICLR](https://iclr.cc/Conferences/2019/CallForPapers). There will be in class project presentation at the end of the term. Not presenting your projects will be taken as voluntarily `giving up` the opportunity for the final write-ups.
+You may structure your project exploration around a general problem type, algorithm, or data set, but should explore around your problem, testing thoroughly or comparing to alternatives. You may work on the project as teams. Each team may have 2-3 people. Please form your team by the end the 4th week. You should submit a project proposal that briefly describe your project concept and goals in one page by 11/04. You should turn in a write-up (< 10 pages) describing your project and its outcomes, similar to a research-level publication. I suggest the latex styles for [NeurIPS](https://nips.cc/Conferences/2019/PaperInformation/StyleFiles) or [ICLR](https://iclr.cc/Conferences/2019/CallForPapers). There will be in class project presentation at the end of the term. Not presenting your projects will be taken as voluntarily `giving up` the opportunity for the final write-ups.
 
 
 
