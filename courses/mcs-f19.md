@@ -43,6 +43,8 @@ We will use python during the course. A good Python tutorial is available at <ht
 - 09/16/2019: [Lecture 3 - Advanced Gradient Methods]({{sites.baseurl}}/static/slides/mcs_fall19/lec03.pdf)
 - 09/23/2019: [Lecture 4 - Numerical Integration]({{sites.baseurl}}/static/slides/mcs_fall19/lec04.pdf)
 - 09/25/2019: [Lecture 5 - Advanced Monte Carlo]({{sites.baseurl}}/static/slides/mcs_fall19/lec05.pdf)
+- 10/07/2019, 10/09/2019: [Lecture 6, 7 - Markov Chain Monte Carlo]({{sites.baseurl}}/static/slides/mcs_fall19/lec0607.pdf)  
+  Handbook of Markov Chain Monte Carlo: <https://www.mcmchandbook.net>
 
 ### Assignments
 - 09/23/2019: [Homework 1]({{sites.baseurl}}/static/slides/mcs_fall19/hw01.pdf), **Due** `10/07/2019`
@@ -62,9 +64,9 @@ You may structure your project exploration around a general problem type, algori
 | 3     |09/23 | Numerical Quadrature, Monte Carlo Methods|  PS1 out, due 10/07
 |       |09/25 | Exact Simulation, Variance Reduction Techniques|    |
 | 4     |09/30 | -- |   National Day  |
-| 5     |10/07 | Metropolis-Hastings, Gibbs Sampling, Slice Sampling |     |
-|       |10/09 | Improving Mixing and Convergence, Tempering, Adaptive MCMC|       <!--PS2 out, due 10/23-->
-| 6     |10/14 | Hamiltonian Monte Carlo |     |
+| 5     |10/07 | Markov Chain Monte Carlo |     |
+|       |10/09 | Improving Mixing and Convergence, Auxiliary Variable Methods|       <!--PS2 out, due 10/23-->
+| 6     |10/14 | Hamiltonian Monte Carlo, Adaptive MCMC|     |
 | 7     |10/21 | Scalable MCMC Methods  |       |
 |       |10/23 | Expectation Maximization |         |
 | 8     |10/28 | EM Variants |       <!--PS3 out, due 11/11  -->
@@ -75,7 +77,7 @@ You may structure your project exploration around a general problem type, algori
 |       |11/20 | Combinig VI and MCMC |          |
 | 12    |11/25 | Variational Autoencoder  |       |
 | 13    |12/02 | Generative Adversarial Networks |    |
-|       |12/04 | Adversarial Variational Bayes, Flow Based Generative Models  |     |
+|       |12/04 | More on Deep Generative Models|     |
 | 14    |12/09 | Applications in Computational Biology |     |
 | 15    |12/16 | Project Presentation  |    |
 |       |12/18 | Project Presentation  |    |

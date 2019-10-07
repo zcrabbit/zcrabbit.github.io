@@ -24,7 +24,7 @@ I received my Bachelor degree (2008) in applied mathematics and Master degree (2
 
 ### Research interest
 
-My Research area is Bayesian statistics and machine learning, with interests including graphical models, efficient Markov chain Monte Carlo methods and variational inference methods for Bayesian models, deep Bayesian learning/Bayesian deep learning, and various applications using probablistic modeling. 
+My Research area is Bayesian statistics and machine learning, with interests including graphical models, efficient Markov chain Monte Carlo methods and variational inference methods for Bayesian models, deep Bayesian learning/Bayesian deep learning, and various applications using probabilistic modeling. 
 
 Examples of subjects of interest including:
 
