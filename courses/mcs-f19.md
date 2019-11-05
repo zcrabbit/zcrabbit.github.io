@@ -54,7 +54,7 @@ We will use python during the course. A good Python tutorial is available at <ht
 
 ### Assignments
 - 09/23/2019: [Homework 1]({{sites.baseurl}}/static/slides/mcs_fall19/hw01.pdf), **Due** `10/07/2019`
-- 10/25/2019: [Homework 2]({{sites.baseurl}}/static/slides/mcs_fall19/hw02.pdf), **Due** `11/06/2019`  
+- 10/25/2019: [Homework 2]({{sites.baseurl}}/static/slides/mcs_fall19/hw02.pdf), **Due** `11/07/2019`  
   Data: [p2]({{sites.baseurl}}/static/datasets/mcs_hw2_p2_data.npy), [p3]({{sites.baseurl}}/static/datasets/mcs_hw2_p3_data.npy)
 
 ### Final Project
