@@ -50,6 +50,7 @@ We will use python during the course. A good Python tutorial is available at <ht
 - 10/23/2019: [Lecture 10 - Expectation Maximization]({{sites.baseurl}}/static/slides/mcs_fall19/lec10.pdf)
 - 10/28/2019: [Lecture 11 - Advanced EM]({{sites.baseurl}}/static/slides/mcs_fall19/lec11.pdf)
 - 11/04/2019: [Lecture 12 - Variational EM]({{sites.baseurl}}/static/slides/mcs_fall19/lec12.pdf)
+- 11/06/2019: [Lecture 13 - Variational Inference]({{sites.baseurl}}/static/slides/mcs_fall19/lec13.pdf)
 
 
 ### Assignments
