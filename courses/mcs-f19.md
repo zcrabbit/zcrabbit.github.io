@@ -51,6 +51,7 @@ We will use python during the course. A good Python tutorial is available at <ht
 - 10/28/2019: [Lecture 11 - Advanced EM]({{sites.baseurl}}/static/slides/mcs_fall19/lec11.pdf)
 - 11/04/2019: [Lecture 12 - Variational EM]({{sites.baseurl}}/static/slides/mcs_fall19/lec12.pdf)
 - 11/06/2019: [Lecture 13 - Variational Inference]({{sites.baseurl}}/static/slides/mcs_fall19/lec13.pdf)
+- 11/11/2019: [Lecture 14 - Stochastic Variational Inference]({{sites.baseurl}}/static/slides/mcs_fall19/lec14.pdf)
 
 
 ### Assignments
