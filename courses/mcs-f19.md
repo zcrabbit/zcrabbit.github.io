@@ -83,8 +83,8 @@ You may structure your project exploration around a general problem type, algori
 | 9     |11/04 | Variational Bayesian EM |        `Proposal Presentation`
 |       |11/06 | Variational Inference, Mean Field VI |      |
 | 10    |11/11 | Stochastic Variational Inference |      |
-| 11    |11/18 | Choice of Training Objectives, Advanced VI |        <!-- PS4 out, due 12/02 -->
-|       |11/20 | Combinig VI and MCMC |          |
+| 11    |11/18 | Choice of Training Objectives, Expectation Propagation |        <!-- PS4 out, due 12/02 -->
+|       |11/20 | Normalizing Flow, Combinig VI and MCMC |          |
 | 12    |11/25 | Variational Autoencoder  |       |
 | 13    |12/02 | Generative Adversarial Networks |    |
 |       |12/04 | More on Deep Generative Models|     |
