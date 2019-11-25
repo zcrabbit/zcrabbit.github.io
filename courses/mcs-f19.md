@@ -54,6 +54,7 @@ We will use python during the course. A good Python tutorial is available at <ht
 - 11/11/2019: [Lecture 14 - Stochastic Variational Inference]({{sites.baseurl}}/static/slides/mcs_fall19/lec14.pdf)
 - 11/18/2019: [Lecture 15 - Training Objectives in VI]({{sites.baseurl}}/static/slides/mcs_fall19/lec15.pdf)
 - 11/20/2019: [Lecture 16 - Advanced VI]({{sites.baseurl}}/static/slides/mcs_fall19/lec16.pdf)
+- 11/25/2019: [Lecture 17 - Autoregressive Models]({{sites.baseurl}}/static/slides/mcs_fall19/lec17.pdf)
 
 
 ### Assignments
@@ -87,9 +88,9 @@ You may structure your project exploration around a general problem type, algori
 | 10    |11/11 | Stochastic Variational Inference |      |
 | 11    |11/18 | Choice of Training Objectives, Expectation Propagation |        <!-- PS4 out, due 12/02 -->
 |       |11/20 | Normalizing Flow, Combinig VI and MCMC |          |
-| 12    |11/25 | Variational Autoencoder  |       |
-| 13    |12/02 | Generative Adversarial Networks |    |
-|       |12/04 | More on Deep Generative Models|     |
+| 12    |11/25 | Autoregressive Models |       |
+| 13    |12/02 | Variational Autoencoder  |    |
+|       |12/04 | Generative Adversarial Networks |     |
 | 14    |12/09 | Applications in Computational Biology |     |
 | 15    |12/16 | Project Presentation  |    |
 |       |12/18 | Project Presentation  |    |
