@@ -55,12 +55,14 @@ We will use python during the course. A good Python tutorial is available at <ht
 - 11/18/2019: [Lecture 15 - Training Objectives in VI]({{sites.baseurl}}/static/slides/mcs_fall19/lec15.pdf)
 - 11/20/2019: [Lecture 16 - Advanced VI]({{sites.baseurl}}/static/slides/mcs_fall19/lec16.pdf)
 - 11/25/2019: [Lecture 17 - Autoregressive Models]({{sites.baseurl}}/static/slides/mcs_fall19/lec17.pdf)
+- 12/02/2019: [Lecture 18 - Variational Autoencoder]({{sites.baseurl}}/static/slides/mcs_fall19/lec18.pdf)
 
 
 ### Assignments
 - 09/23/2019: [Homework 1]({{sites.baseurl}}/static/slides/mcs_fall19/hw01.pdf), **Due** `10/07/2019`
 - 10/25/2019: [Homework 2]({{sites.baseurl}}/static/slides/mcs_fall19/hw02.pdf), **Due** `11/07/2019` &nbsp; Data: [p2]({{sites.baseurl}}/static/datasets/mcs_hw2_p2_data.npy), [p3]({{sites.baseurl}}/static/datasets/mcs_hw2_p3_data.npy)
-- 11/16/2019: [Homework 3]({{sites.baseurl}}/static/slides/mcs_fall19/hw03.pdf), **Due** `12/02/2019` 
+- 11/16/2019: [Homework 3]({{sites.baseurl}}/static/slides/mcs_fall19/hw03.pdf), **Due** `12/02/2019`
+- 12/02/2019: [Homework 4]({{sites.baseurl}}/static/slides/mcs_fall19/hw04.pdf), **Due** `12/16/2019`
 
 ### Final Project
 You may structure your project exploration around a general problem type, algorithm, or data set, but should explore around your problem, testing thoroughly or comparing to alternatives. You may work on the project as teams. Each team may have 2-3 people. Please form your team by the end the 4th week. You should submit a project proposal that briefly describe your project concept and goals in one page by 11/04. You should turn in a write-up (< 10 pages) describing your project and its outcomes, similar to a research-level publication. I suggest the latex styles for [NeurIPS](https://nips.cc/Conferences/2019/PaperInformation/StyleFiles) or [ICLR](https://iclr.cc/Conferences/2019/CallForPapers). There will be in class project presentation at the end of the term. Not presenting your projects will be taken as voluntarily `giving up` the opportunity for the final write-ups.
