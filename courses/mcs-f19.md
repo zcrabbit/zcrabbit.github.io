@@ -57,6 +57,7 @@ We will use python during the course. A good Python tutorial is available at <ht
 - 11/25/2019: [Lecture 17 - Autoregressive Models]({{sites.baseurl}}/static/slides/mcs_fall19/lec17.pdf)
 - 12/02/2019: [Lecture 18 - Variational Autoencoder]({{sites.baseurl}}/static/slides/mcs_fall19/lec18.pdf)
 - 12/04/2019: [Lecture 19 - Generative Adversarial Networks]({{sites.baseurl}}/static/slides/mcs_fall19/lec19.pdf)
+- 12/09/2019: [Lecture 20 - Applications in Computational Biology]({{sites.baseurl}}/static/slides/mcs_fall19/lec20.pdf)
 
 
 
