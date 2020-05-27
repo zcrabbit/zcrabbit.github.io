@@ -10,7 +10,7 @@ _In Proceedings of the 7th International Conference on Learning Representations 
 
 - [Non-bifurcating Phylogenetic Tree Inference via The Adaptive LASSO](https://arxiv.org/abs/1805.11073)  
 Cheng Zhang\*, Vu Dinh\*, Frederick A. Matsen IV  
-_Journal of the American Statistical Association, in revision_
+_Journal of the American Statistical Association, accepted_
 
 - [Generalizing Tree Probability Estimation via Bayesian Networks](https://arxiv.org/abs/1805.07834)  
 Cheng Zhang, Frederick A. Matsen IV  
