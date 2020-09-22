@@ -26,7 +26,7 @@ Multivariate calculus, linear algebra, graduate level courses in probability and
 - Goodfellow, I., Bengio, Y. and Courville, A. (2016). Deep Learning, MIT Press.
 
 ### Grading
-- 4 problem sets (15% each), 60%
+- Homework (60%): 4 problem sets (15% each)
 - final project (40%): midterm proposal (5%) + oral presentation (10%) + final write-up (25%)
 
 There will be `7` free late days in total, use them in your own ways. Afterwards, late homework will be discounted by 25% for each additional day. Not acceptable after `3` late days per problem set (PS). Late policy `does not apply` to the final project, please submit it on time. Discussing assignments verbally with your classmates is allowed and encouraged. However, you should finish your work independently. Identified cheating incidents will be reported and will result in zero grades.
@@ -36,7 +36,28 @@ There will be `7` free late days in total, use them in your own ways. Afterwards
 We will use python during the course. A good Python tutorial is available at <http://www.scipy-lectures.org/>. You may also find another shorter tutorial useful at <http://cs231n.github.io/python-numpy-tutorial/>. If you have never used Python before, I recommend using Anaconda Python 3.7 <https://www.continuum.io/>.
 
 ### Lectures
-<!-- - 09/24/2020: [Lecture 1 - Introduction]-->
+- 09/24/2020: [Lecture 1 - Introduction]({{sites.baseurl}}/static/slides/smcm_fall20/lec01.pdf)
 
 ### Final Project
-You may structure your project exploration around a general problem type, algorithm, or data set, but should explore around your problem, testing thoroughly or comparing to alternatives. You may work on the project as teams. Each team may have up to `4` people. Please form your team by the end the `4th` week. You should submit a project proposal that briefly describe your project concept and goals in one page by `11/12`. You should turn in a write-up (< 10 pages) describing your project and its outcomes, similar to a research-level publication. I suggest the latex styles for [NeurIPS](https://nips.cc/Conferences/2019/PaperInformation/StyleFiles) or [ICLR](https://iclr.cc/Conferences/2019/CallForPapers). There will be in class project presentation at the end of the term. Not presenting your projects will be taken as voluntarily `giving up` the opportunity for the final write-ups.
+You may structure your project exploration around a general problem type, algorithm, or data set, but should explore around your problem, testing thoroughly or comparing to alternatives. You may work on the project as teams. Each team may have up to `4` people. Please form your team by the end the `4th` week. You should present a project proposal that briefly describe your project concept and goals in one slide on `11/12`. You should turn in a write-up (< 10 pages) describing your project and its outcomes, similar to a research-level publication. I suggest the latex styles for [NeurIPS](https://nips.cc/Conferences/2019/PaperInformation/StyleFiles) or [ICLR](https://iclr.cc/Conferences/2019/CallForPapers). There will be in class project presentation at the end of the term. Not presenting your projects will be taken as voluntarily `giving up` the opportunity for the final write-ups.
+
+### Tentative Schedule
+
+| Week  | Date | Topics       |    Notes   |
+| ----- |------| -----        |   -----    |
+| 1     |09/24 | Introduction, Convex Optimization|            |
+| 2     |10/01 | -- | National Day  |
+| 3     |10/08 | -- | National Day  | 
+| 4     |10/15 | Iterative Reweighted Least Squares, Gradient Descent Methods|   |
+| 5     |10/22 | Numerical Quadrature, Monte Carlo Methods, Variance Reduction Techniques|   |
+| 6     |10/29 | Markov Chain Monte Carlo, Improving Mixing and Convergence|     |
+| 7     |11/05 | Auxiliary Variable Methods, Hamiltonian Monte Carlo, Adaptive MCMC|     |
+| 8     |11/12 | Scalable MCMC Methods  |  `Proposal Presentation`  |
+| 9     |11/19 | Expectation Maximization, Convergence Theory and EM Variants |       |     
+| 10    |11/26 | Variational Bayesian EM, Variational Inference, Mean Field VI |      |
+| 11    |12/03 | Stochastic Variational Inference, Choice of Training Objectives|      |
+| 12    |12/10 | Normalizing Flow, Combinig VI and MCMC |          |
+| 13    |12/17 | Autoregressive Models, Variational Autoencoder |       |
+| 14    |12/24 | Generative Adversarial Networks, Bayesian Phylogenetic Inference |     |
+| 15    |12/31 | Project Presentation  |    |
+| 16    |01/07 | Project Presentation  |    |
