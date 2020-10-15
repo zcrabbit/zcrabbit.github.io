@@ -38,6 +38,7 @@ We will use python during the course. A good Python tutorial is available at <ht
 ### Lectures
 - 09/24/2020: [Lecture 1 - Introduction]({{sites.baseurl}}/static/slides/smcm_fall20/lec01.pdf)  
   Textbook on convex optimization: <https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf>
+- 10/15/2020: [Lecture 2 - Gradient Methods]({{sites.baseurl}}/static/slides/smcm_fall20/lec02.pdf)
 
 ### Final Project
 You may structure your project exploration around a general problem type, algorithm, or data set, but should explore around your problem, testing thoroughly or comparing to alternatives. You may work on the project as teams. Each team may have up to `4` people. Please form your team by the end the `4th` week. You should present a project proposal that briefly describe your project concept and goals in one slide on `11/12`. You should turn in a write-up (< 10 pages) describing your project and its outcomes, similar to a research-level publication. I suggest the latex styles for [NeurIPS](https://nips.cc/Conferences/2019/PaperInformation/StyleFiles) or [ICLR](https://iclr.cc/Conferences/2019/CallForPapers). There will be in class project presentation at the end of the term. Not presenting your projects will be taken as voluntarily `giving up` the opportunity for the final write-ups.
