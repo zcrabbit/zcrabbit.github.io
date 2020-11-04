@@ -40,7 +40,8 @@ We will use python during the course. A good Python tutorial is available at <ht
   Textbook on convex optimization: <https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf>
 - 10/15/2020: [Lecture 2 - Gradient Methods]({{sites.baseurl}}/static/slides/smcm_fall20/lec02.pdf)
 - 10/22/2020: [Lecture 3 - Numerical Integration]({{sites.baseurl}}/static/slides/smcm_fall20/lec03.pdf)
-- 10/29/2020: [Lecture 4 - Markov Chain Monte Carlo]({{sites.baseurl}}/static/slides/smcm_fall20/lec04.pdf)
+- 10/29/2020: [Lecture 4 - Markov Chain Monte Carlo]({{sites.baseurl}}/static/slides/smcm_fall20/lec04.pdf)  
+  Handbook of Markov Chain Monte Carlo: <https://www.mcmchandbook.net>
 - 11/05/2020: [Lecture 5 - Advanced MCMC]({{sites.baseurl}}/static/slides/smcm_fall20/lec05.pdf)
 
 
