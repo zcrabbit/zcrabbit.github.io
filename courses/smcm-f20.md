@@ -45,11 +45,13 @@ We will use python during the course. A good Python tutorial is available at <ht
 - 11/05/2020: [Lecture 5 - Advanced MCMC]({{sites.baseurl}}/static/slides/smcm_fall20/lec05.pdf)
 - 11/12/2020: [Lecture 6 - Scalable MCMC]({{sites.baseurl}}/static/slides/smcm_fall20/lec06.pdf)
 - 11/19/2020: [Lecture 7 - Expectation Maximization]({{sites.baseurl}}/static/slides/smcm_fall20/lec07.pdf)
+- 11/26/2020: [Lecture 8 - Variational Inference]({{sites.baseurl}}/static/slides/smcm_fall20/lec08.pdf)
 
 
 ### Assignments
-- 10/15/2019: [Homework 1]({{sites.baseurl}}/static/slides/smcm_fall20/hw01.pdf), **Due** `10/29/2019`
-- 11/05/2019: [Homework 2]({{sites.baseurl}}/static/slides/smcm_fall20/hw02.pdf), **Due** `11/19/2019` &nbsp; Data: [p3]({{sites.baseurl}}/static/datasets/mcs_hw2_p3_data.npy)
+- 10/15/2020: [Homework 1]({{sites.baseurl}}/static/slides/smcm_fall20/hw01.pdf), **Due** `10/29/2020`
+- 11/05/2020: [Homework 2]({{sites.baseurl}}/static/slides/smcm_fall20/hw02.pdf), **Due** `11/19/2020` &nbsp; Data: [p3]({{sites.baseurl}}/static/datasets/mcs_hw2_p3_data.npy)
+- 11/25/2020: [Homework 3]({{sites.baseurl}}/static/slides/smcm_fall20/hw03.pdf), **Due** `12/10/2020` &nbsp; Data: [p2]({{sites.baseurl}}/static/datasets/mog_data.npy), [p3]({{sites.baseurl}}/static/datasets/proteins.zip)
 
 ### Final Project
 You may structure your project exploration around a general problem type, algorithm, or data set, but should explore around your problem, testing thoroughly or comparing to alternatives. You may work on the project as teams. Each team may have up to `4` people. Please form your team by the end the `4th` week. You should present a project proposal that briefly describe your project concept and goals in one slide on `11/12`. You should turn in a write-up (< 10 pages) describing your project and its outcomes, similar to a research-level publication. I suggest the latex styles for [NeurIPS](https://nips.cc/Conferences/2019/PaperInformation/StyleFiles) or [ICLR](https://iclr.cc/Conferences/2019/CallForPapers). There will be in class project presentation at the end of the term. Not presenting your projects will be taken as voluntarily `giving up` the opportunity for the final write-ups.
