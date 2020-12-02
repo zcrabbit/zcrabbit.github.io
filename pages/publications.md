@@ -3,14 +3,19 @@ layout: page
 title: Publications
 ---
 
+- [Improved Variational Bayesian Phylogenetic Inference with Normalizing Flows](https://papers.nips.cc/paper/2020/file/d96409bf894217686ba124d7356686c9-Paper.pdf)  
+Cheng Zhang  
+_To Appear in Proceedings of the 34th Neural Information Processing Systems (NeurIPS 2020, oral presentation)_  
+[[code]](https://github.com/zcrabbit/vbpi-nf) [[poster]]({{site.baseurl}}/static/posters/vbpi-nf-poster.pdf)
+
+- [Non-bifurcating Phylogenetic Tree Inference via The Adaptive LASSO](https://arxiv.org/abs/1805.11073)  
+Cheng Zhang\*, Vu Dinh\*, Frederick A. Matsen IV  
+_Journal of the American Statistical Association, accepted, 2020_
+
 - [Variational Bayesian Phylogenetic Inference](https://openreview.net/pdf?id=SJVmjjR9FX)  
 Cheng Zhang, Frederick A. Matsen IV.  
 _In Proceedings of the 7th International Conference on Learning Representations (ICLR 2019)_  
 [[poster]]({{site.baseurl}}/static/posters/vbpi_iclr_poster.pdf)
-
-- [Non-bifurcating Phylogenetic Tree Inference via The Adaptive LASSO](https://arxiv.org/abs/1805.11073)  
-Cheng Zhang\*, Vu Dinh\*, Frederick A. Matsen IV  
-_Journal of the American Statistical Association, accepted_
 
 - [Generalizing Tree Probability Estimation via Bayesian Networks](https://arxiv.org/abs/1805.07834)  
 Cheng Zhang, Frederick A. Matsen IV  

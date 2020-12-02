@@ -46,6 +46,7 @@ We will use python during the course. A good Python tutorial is available at <ht
 - 11/12/2020: [Lecture 6 - Scalable MCMC]({{sites.baseurl}}/static/slides/smcm_fall20/lec06.pdf)
 - 11/19/2020: [Lecture 7 - Expectation Maximization]({{sites.baseurl}}/static/slides/smcm_fall20/lec07.pdf)
 - 11/26/2020: [Lecture 8 - Variational Inference]({{sites.baseurl}}/static/slides/smcm_fall20/lec08.pdf)
+- 12/03/2020: [Lecture 9 - Stochastic Variational Inferece and Alternative Training Objectives]({{sites.baseurl}}/static/slides/smcm_fall20/lec09.pdf)
 
 
 ### Assignments
