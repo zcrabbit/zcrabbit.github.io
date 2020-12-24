@@ -49,6 +49,7 @@ We will use python during the course. A good Python tutorial is available at <ht
 - 12/03/2020: [Lecture 9 - Stochastic Variational Inferece and Alternative Training Objectives]({{sites.baseurl}}/static/slides/smcm_fall20/lec09.pdf)
 - 12/10/2020: [Lecture 10 - Advanced VI]({{sites.baseurl}}/static/slides/smcm_fall20/lec10.pdf)
 - 12/17/2020: [Lecture 11 - Autoregressive Models and Variational Autoencoders]({{sites.baseurl}}/static/slides/smcm_fall20/lec11.pdf)
+- 12/24/2020: [Lecture 12 - Generative Adversarial Nets and Bayesian Phylogenetic Inference]({{sites.baseurl}}/static/slides/smcm_fall20/lec12.pdf)
 
 
 ### Assignments

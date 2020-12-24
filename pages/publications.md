@@ -5,7 +5,7 @@ title: Publications
 
 - [Improved Variational Bayesian Phylogenetic Inference with Normalizing Flows](https://papers.nips.cc/paper/2020/file/d96409bf894217686ba124d7356686c9-Paper.pdf)  
 Cheng Zhang  
-_To Appear in Proceedings of the 34th Neural Information Processing Systems (NeurIPS 2020, oral presentation)_  
+_In Proceedings of the 34th Neural Information Processing Systems (NeurIPS 2020, oral presentation)_  
 [[code]](https://github.com/zcrabbit/vbpi-nf) [[poster]]({{site.baseurl}}/static/posters/vbpi-nf-poster.pdf)
 
 - [Non-bifurcating Phylogenetic Tree Inference via The Adaptive LASSO](https://arxiv.org/abs/1805.11073)  
