@@ -3,6 +3,10 @@ layout: page
 title: Talks
 ---
 
+- Improved Variatinal Bayesian Phylogenetic Inference with Normalizing Flows  
+Oral presentation, NeurIPS 2020, Virtual  
+[[slides]]({{sites.baseurl}}/static/slides/VBPI_NF_Oral-5.pdf)
+
 - Variational Bayesian Phylogenetic Inference  
 Invited talk, CAIMS 2019, Whistler, BC  
 [[slides]]({{sites.baseurl}}/static/slides/CAIMS2019.pdf)
