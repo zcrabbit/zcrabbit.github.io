@@ -57,18 +57,18 @@ You may structure your project exploration around a general problem type, algori
 | ----- |------| -----        |   -----    |
 | 1     |03/09 | Introduction |            |
 |       |03/12 | Single- and Multi- Parameter Models|   |
-| 2     |03/19 | |      |
-| 3     |03/23 | |  
-|       |03/26 | |    |
-| 4     |04/02 |  |    |
-| 5     |04/06 |  |     |
-|       |04/09 | |       <!--PS2 out, due 10/23-->
-| 6     |04/16 | |     |
-| 7     |04/20 | |       |
-|       |04/23 |  |         |
+| 2     |03/19 | Monte Carlo Methods, Markov Processes|      |
+| 3     |03/23 | Metropolis Hastings, Gibbs Sampling|  
+|       |03/26 | Parallel Tempering, Slice Sampling, Hierarchical Models|    |
+| 4     |04/02 | Linear Models, Generalized Linear Models |    |
+| 5     |04/06 | Bayesian Decision Theory, Bayesian Model Selection |     |
+|       |04/09 | Importance Sampling, Variance Reduction Techniques|       <!--PS2 out, due 10/23-->
+| 6     |04/16 | Sequential Monte Carlo|     |
+| 7     |04/20 | Hamiltonian Monte Carlo, Adaptive MCMC|       |
+|       |04/23 | Scalable MCMC Methods |         |
 | 8     |04/30 | -- |    International Workers’ Day |
 | 9     |05/04 | |     
-|       |05/07 |  |      |
+|       |05/07 | |      |
 | 10    |05/14 |  |      |
 | 11    |05/18 |  |        <!-- PS4 out, due 12/02 -->
 |       |05/21 |  |          |
