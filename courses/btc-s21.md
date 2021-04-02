@@ -44,6 +44,7 @@ We will use python during the course. A good Python tutorial is available at <ht
 - 03/19/2021: [Lecture 3 - Monte Carlo Methods]({{sites.baseurl}}/static/slides/btc_spring21/lec03.pdf)
 - 03/23/2021: [Lecture 4 - Markov Chain Monte Carlo I]({{sites.baseurl}}/static/slides/btc_spring21/lec04.pdf)
 - 03/26/2021: [Lecture 5 - Markov Chain Monte Carlo II]({{sites.baseurl}}/static/slides/btc_spring21/lec05.pdf)
+- 04/02/2021: [Lecture 6 - Linear and Generalized Linear Models]({{sites.baseurl}}/static/slides/btc_spring21/lec06.pdf)
 
 
 ### Assignments
