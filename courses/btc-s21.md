@@ -49,6 +49,7 @@ We will use python during the course. A good Python tutorial is available at <ht
 - 04/09/2021: [Lecture 8 - Importance Sampling]({{sites.baseurl}}/static/slides/btc_spring21/lec08.pdf)
 - 04/16/2021: [Lecture 9 - Sequential Monte Carlo]({{sites.baseurl}}/static/slides/btc_spring21/lec09.pdf)
 - 04/20/2021: [Lecture 10 - Advanced MCMC]({{sites.baseurl}}/static/slides/btc_spring21/lec10.pdf)
+- 04/23/2021: [Lecture 11 - Scalable MCMC]({{sites.baseurl}}/static/slides/btc_spring21/lec11.pdf)
 
 
 ### Assignments
