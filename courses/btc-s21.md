@@ -50,6 +50,7 @@ We will use python during the course. A good Python tutorial is available at <ht
 - 04/16/2021: [Lecture 9 - Sequential Monte Carlo]({{sites.baseurl}}/static/slides/btc_spring21/lec09.pdf)
 - 04/20/2021: [Lecture 10 - Advanced MCMC]({{sites.baseurl}}/static/slides/btc_spring21/lec10.pdf)
 - 04/23/2021: [Lecture 11 - Scalable MCMC]({{sites.baseurl}}/static/slides/btc_spring21/lec11.pdf)
+- 05/04/2021: [Lecture 12 - Expectation Maximization]({{sites.baseurl}}/static/slides/btc_spring21/lec12.pdf)
 
 
 ### Assignments
@@ -78,13 +79,13 @@ You may structure your project exploration around a general problem type, algori
 | 7     |04/20 | Hamiltonian Monte Carlo, Adaptive MCMC|       |
 |       |04/23 | Scalable MCMC Methods |         |
 | 8     |04/30 | -- |    International Workers’ Day |
-| 9     |05/04 | |     
-|       |05/07 | |      |
-| 10    |05/14 |  |      |
-| 11    |05/18 |  |        <!-- PS4 out, due 12/02 -->
+| 9     |05/04 | Expectation Maximization |     
+|       |05/07 | Variational Bayesian EM |   `proposal presentation`   |
+| 10    |05/14 | Variational Inference, Mean Field VI |      |
+| 11    |05/18 | Stochastic Variational Inference |       
 |       |05/21 |  |          |
 | 12    |05/28 |  |       |
-| 13    |06/01 |   |    |
+| 13    |06/01 |  |    |
 |       |06/04 |  |     |
 | 14    |06/11 |   |     |
 | 15    |06/15 |  |    |
