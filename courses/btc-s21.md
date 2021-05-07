@@ -51,6 +51,7 @@ We will use python during the course. A good Python tutorial is available at <ht
 - 04/20/2021: [Lecture 10 - Advanced MCMC]({{sites.baseurl}}/static/slides/btc_spring21/lec10.pdf)
 - 04/23/2021: [Lecture 11 - Scalable MCMC]({{sites.baseurl}}/static/slides/btc_spring21/lec11.pdf)
 - 05/04/2021: [Lecture 12 - Expectation Maximization]({{sites.baseurl}}/static/slides/btc_spring21/lec12.pdf)
+- 05/07/2021: [Lecture 13 - Variational EM]({{sites.baseurl}}/static/slides/btc_spring21/lec13.pdf)
 
 
 ### Assignments
