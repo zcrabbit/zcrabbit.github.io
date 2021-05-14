@@ -52,11 +52,13 @@ We will use python during the course. A good Python tutorial is available at <ht
 - 04/23/2021: [Lecture 11 - Scalable MCMC]({{sites.baseurl}}/static/slides/btc_spring21/lec11.pdf)
 - 05/04/2021: [Lecture 12 - Expectation Maximization]({{sites.baseurl}}/static/slides/btc_spring21/lec12.pdf)
 - 05/07/2021: [Lecture 13 - Variational EM]({{sites.baseurl}}/static/slides/btc_spring21/lec13.pdf)
+- 05/14/2021: [Lecture 14 - Variational Inference]({{sites.baseurl}}/static/slides/btc_spring21/lec14.pdf)
 
 
 ### Assignments
 - 03/26/2021: [Homework 1]({{sites.baseurl}}/static/slides/btc_spring21/hw01.pdf), **Due** `04/09/2021`
 - 04/20/2021: [Homework 2]({{sites.baseurl}}/static/slides/btc_spring21/hw02.pdf), **Due** `05/04/2021`
+- 05/14/2021: [Homework 3]({{sites.baseurl}}/static/slides/btc_spring21/hw03.pdf), **Due** `05/28/2021`
 
 
 ### Final Project
