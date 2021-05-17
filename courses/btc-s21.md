@@ -53,6 +53,7 @@ We will use python during the course. A good Python tutorial is available at <ht
 - 05/04/2021: [Lecture 12 - Expectation Maximization]({{sites.baseurl}}/static/slides/btc_spring21/lec12.pdf)
 - 05/07/2021: [Lecture 13 - Variational EM]({{sites.baseurl}}/static/slides/btc_spring21/lec13.pdf)
 - 05/14/2021: [Lecture 14 - Variational Inference]({{sites.baseurl}}/static/slides/btc_spring21/lec14.pdf)
+- 05/18/2021: [Lecture 15 - Stochastic Variational Inference]({{sites.baseurl}}/static/slides/btc_spring21/lec15.pdf)
 
 
 ### Assignments
@@ -86,10 +87,10 @@ You may structure your project exploration around a general problem type, algori
 |       |05/07 | Variational Bayesian EM |   `proposal presentation`   |
 | 10    |05/14 | Variational Inference, Mean Field VI |      |
 | 11    |05/18 | Stochastic Variational Inference |       
-|       |05/21 |  |          |
-| 12    |05/28 |  |       |
-| 13    |06/01 |  |    |
-|       |06/04 |  |     |
-| 14    |06/11 |   |     |
-| 15    |06/15 |  |    |
-|       |06/18 |  |    |
+|       |05/21 | Normalizing Flow, Combining VI and MCMC |          |
+| 12    |05/28 | Gaussian Processes, Sparse Gaussian Processes|       |
+| 13    |06/01 | Dirichlet Processes|    |
+|       |06/04 | Project Presentation |     |
+| 14    |06/11 | Project Presentation |     |
+| 15    |06/15 | Project Presentation |    |
+|       |06/18 | Project Presentation |    |
