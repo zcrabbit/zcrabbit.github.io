@@ -54,6 +54,7 @@ We will use python during the course. A good Python tutorial is available at <ht
 - 05/07/2021: [Lecture 13 - Variational EM]({{sites.baseurl}}/static/slides/btc_spring21/lec13.pdf)
 - 05/14/2021: [Lecture 14 - Variational Inference]({{sites.baseurl}}/static/slides/btc_spring21/lec14.pdf)
 - 05/18/2021: [Lecture 15 - Stochastic Variational Inference]({{sites.baseurl}}/static/slides/btc_spring21/lec15.pdf)
+- 05/21/2021: [Lecture 16 - Advanced VI]({{sites.baseurl}}/static/slides/btc_spring21/lec16.pdf)
 
 
 ### Assignments
