@@ -55,6 +55,7 @@ We will use python during the course. A good Python tutorial is available at <ht
 - 05/14/2021: [Lecture 14 - Variational Inference]({{sites.baseurl}}/static/slides/btc_spring21/lec14.pdf)
 - 05/18/2021: [Lecture 15 - Stochastic Variational Inference]({{sites.baseurl}}/static/slides/btc_spring21/lec15.pdf)
 - 05/21/2021: [Lecture 16 - Advanced VI]({{sites.baseurl}}/static/slides/btc_spring21/lec16.pdf)
+- 05/28/2021: [Lecture 17 - Gaussian Processes]({{sites.baseurl}}/static/slides/btc_spring21/lec17.pdf)
 
 
 ### Assignments
@@ -90,7 +91,7 @@ You may structure your project exploration around a general problem type, algori
 | 11    |05/18 | Stochastic Variational Inference |       
 |       |05/21 | Normalizing Flow, Combining VI and MCMC |          |
 | 12    |05/28 | Gaussian Processes, Sparse Gaussian Processes|       |
-| 13    |06/01 | Dirichlet Processes|    |
+| 13    |06/01 | Dirichlet Processes, DP Mixture Models|    |
 |       |06/04 | Project Presentation |     |
 | 14    |06/11 | Project Presentation |     |
 | 15    |06/15 | Project Presentation |    |
