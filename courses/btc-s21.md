@@ -56,6 +56,7 @@ We will use python during the course. A good Python tutorial is available at <ht
 - 05/18/2021: [Lecture 15 - Stochastic Variational Inference]({{sites.baseurl}}/static/slides/btc_spring21/lec15.pdf)
 - 05/21/2021: [Lecture 16 - Advanced VI]({{sites.baseurl}}/static/slides/btc_spring21/lec16.pdf)
 - 05/28/2021: [Lecture 17 - Gaussian Processes]({{sites.baseurl}}/static/slides/btc_spring21/lec17.pdf)
+- 06/01/2021: [Lecture 18 - Dirichlet Processes]({{sites.baseurl}}/static/slides/btc_spring21/lec18.pdf)
 
 
 ### Assignments
