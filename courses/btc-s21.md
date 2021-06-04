@@ -63,6 +63,7 @@ We will use python during the course. A good Python tutorial is available at <ht
 - 03/26/2021: [Homework 1]({{sites.baseurl}}/static/slides/btc_spring21/hw01.pdf), **Due** `04/09/2021`
 - 04/20/2021: [Homework 2]({{sites.baseurl}}/static/slides/btc_spring21/hw02.pdf), **Due** `05/04/2021`
 - 05/14/2021: [Homework 3]({{sites.baseurl}}/static/slides/btc_spring21/hw03.pdf), **Due** `05/28/2021`
+- 06/04/2021: [Homework 4]({{sites.baseurl}}/static/slides/btc_spring21/hw04.pdf), **Due** `06/18/2021` &nbsp; Data: [p1]({{sites.baseurl}}/static/datasets/btc_hw4_lda_data.p), [p4]({{sites.baseurl}}/static/datasets/btc_hw4_dp_data.npy)
 
 
 ### Final Project
