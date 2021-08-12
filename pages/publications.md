@@ -3,14 +3,15 @@ layout: page
 title: Publications
 ---
 
+
+- [Non-bifurcating Phylogenetic Tree Inference via The Adaptive LASSO](https://arxiv.org/abs/1805.11073)  
+Cheng Zhang\*, Vu Dinh\*, Frederick A. Matsen IV  
+_Journal of the American Statistical Association, 116(534), 2021, pp. 858-873_
+
 - [Improved Variational Bayesian Phylogenetic Inference with Normalizing Flows](https://papers.nips.cc/paper/2020/file/d96409bf894217686ba124d7356686c9-Paper.pdf)  
 Cheng Zhang  
 _In Proceedings of the 34th Neural Information Processing Systems (NeurIPS 2020, oral presentation)_  
 [[code]](https://github.com/zcrabbit/vbpi-nf) [[poster]]({{site.baseurl}}/static/posters/vbpi-nf-poster.pdf)
-
-- [Non-bifurcating Phylogenetic Tree Inference via The Adaptive LASSO](https://arxiv.org/abs/1805.11073)  
-Cheng Zhang\*, Vu Dinh\*, Frederick A. Matsen IV  
-_Journal of the American Statistical Association, accepted, 2020_
 
 - [Variational Bayesian Phylogenetic Inference](https://openreview.net/pdf?id=SJVmjjR9FX)  
 Cheng Zhang, Frederick A. Matsen IV.  
@@ -28,12 +29,12 @@ _Bayesian Analysis 13(2), 2018, pp. 486-506_
 
 - [Hamiltonian Monte Carlo Acceleration Using Surrogate Functions with Random Bases](https://arxiv.org/pdf/1506.05555.pdf)  
 Cheng Zhang, Babak Shahbaba, Hongkai Zhao  
-_Statistics and Computing 27(6), 2017, pp. 1473-1490_  
+_Statistics and Computing, 27(6), 2017, pp. 1473-1490_  
 [[code]](https://github.com/zcrabbit/RNSHMC)
 
 - [Precomputing Strategy for Hamiltonian Monte Carlo Methods Based on Regularity in Parameter Space](https://arxiv.org/pdf/1504.01418.pdf)  
 Cheng Zhang, Babak Shahbaba, Hongkai Zhao  
-_Computational Statistics 32(1), 2017, pp. 253-279_
+_Computational Statistics, 32(1), 2017, pp. 253-279_
 
 - [Probabilistic Path Hamiltonian Monte Carlo](http://proceedings.mlr.press/v70/dinh17a/dinh17a.pdf)  
 Vu Dinh\*, Arman Bilge\*, Cheng Zhang\*, Frederick A. Matsen IV  
