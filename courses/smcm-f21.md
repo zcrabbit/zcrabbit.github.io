@@ -7,6 +7,7 @@ author: Cheng Zhang
 
 ### Basic Info
 - Instructor: Cheng Zhang (<chengzhang@math.pku.edu.cn>)
+- Teaching Assistant: Tianyu Xie (<tianyuxie@pku.edu.cn>)
 - Class times: Even Monday 1:00-2:50pm, Thursday 10:10am-12:00pm, Classroom Building No.3, Room 406  
 - Office hours: Thursday 3:00-5:00pm or by appointment, 315 Building No.20
 - [Syllabus]({{sites.baseurl}}/courses/Syllabus-smcm-f21.pdf)
