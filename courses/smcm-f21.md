@@ -41,9 +41,10 @@ We will use python during the course. A good Python tutorial is available at <ht
 - 09/20/2019: [Lecture 2 - Optimization]({{sites.baseurl}}/static/slides/smcm_fall21/lec02.pdf)  
   Textbook on convex optimization: <https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf>  
 - 09/23/2019: [Lecture 3 - Advanced Gradient Methods]({{sites.baseurl}}/static/slides/smcm_fall21/lec03.pdf)  
-
+- 09/30/2019: [Lecture 4 - Numerical Integration]({{sites.baseurl}}/static/slides/smcm_fall21/lec04.pdf)
 
 ### Assignments
+- 09/30/2019: [Homework 1]({{sites.baseurl}}/static/slides/smcm_fall21/hw01.pdf), **Due** `10/14/2021`  
 
 
 ### Final Project
@@ -58,7 +59,7 @@ You may structure your project exploration around a general problem type, algori
 | 1     |09/16 | Introduction |            |
 | 2     |09/20 | Convex Optimization, Gradient Descent, Iterative Reweighted Least Squares|   |
 |       |09/23 | Advanced Gradient Descent Methods |      |
-| 3     |09/30 | Numerical Quadrature, Monte Carlo Methods|  <!--PS1 out, due 10/14-->
+| 3     |09/30 | Numerical Quadrature, Monte Carlo Methods|  PS1 out, due 10/14
 | 4     |10/04 | -- |  National Day Holiday 
 |       |10/07 | -- |  National Day Holiday
 | 5     |10/14 | Exact Simulation, Variance Reduction Techniques|    |
