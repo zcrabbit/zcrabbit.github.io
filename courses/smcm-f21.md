@@ -38,11 +38,13 @@ We will use python during the course. A good Python tutorial is available at <ht
 
 ### Lectures
 - 09/16/2021: [Lecture 1 - Introduction]({{sites.baseurl}}/static/slides/smcm_fall21/lec01.pdf)  
-- 09/20/2019: [Lecture 2 - Optimization]({{sites.baseurl}}/static/slides/smcm_fall21/lec02.pdf)  
+- 09/20/2021: [Lecture 2 - Optimization]({{sites.baseurl}}/static/slides/smcm_fall21/lec02.pdf)  
   Textbook on convex optimization: <https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf>  
-- 09/23/2019: [Lecture 3 - Advanced Gradient Methods]({{sites.baseurl}}/static/slides/smcm_fall21/lec03.pdf)  
-- 09/30/2019: [Lecture 4 - Numerical Integration]({{sites.baseurl}}/static/slides/smcm_fall21/lec04.pdf)  
-- 10/14/2019: [Lecture 5 - Advanced Monte Carlo]({{sites.baseurl}}/static/slides/smcm_fall21/lec05.pdf)
+- 09/23/2021: [Lecture 3 - Advanced Gradient Methods]({{sites.baseurl}}/static/slides/smcm_fall21/lec03.pdf)  
+- 09/30/2021: [Lecture 4 - Numerical Integration]({{sites.baseurl}}/static/slides/smcm_fall21/lec04.pdf)  
+- 10/14/2021: [Lecture 5 - Advanced Monte Carlo]({{sites.baseurl}}/static/slides/smcm_fall21/lec05.pdf)  
+- 10/18/2021, 10/21/2021: [Lecture 6, 7 - Markov Chain Monte Carlo]({{sites.baseurl}}/static/slides/smcm_fall21/lec0607.pdf)  
+  Handbook of Markov Chain Monte Carlo: <https://www.mcmchandbook.net>
 
 ### Assignments
 - 09/30/2019: [Homework 1]({{sites.baseurl}}/static/slides/smcm_fall21/hw01.pdf), **Due** `10/14/2021`  
