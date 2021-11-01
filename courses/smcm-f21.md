@@ -45,7 +45,8 @@ We will use python during the course. A good Python tutorial is available at <ht
 - 10/14/2021: [Lecture 5 - Advanced Monte Carlo]({{sites.baseurl}}/static/slides/smcm_fall21/lec05.pdf)  
 - 10/18/2021, 10/21/2021: [Lecture 6, 7 - Markov Chain Monte Carlo]({{sites.baseurl}}/static/slides/smcm_fall21/lec0607.pdf)  
   Handbook of Markov Chain Monte Carlo: <https://www.mcmchandbook.net>  
-- 10/28/2021: [Lecture 8 - Advanced MCMC]({{sites.baseurl}}/static/slides/smcm_fall21/lec08.pdf)
+- 10/28/2021: [Lecture 8 - Advanced MCMC]({{sites.baseurl}}/static/slides/smcm_fall21/lec08.pdf)  
+- 11/01/2021: [Lecture 9 - Scalable MCMC]({{sites.baseurl}}/static/slides/smcm_fall21/lec09.pdf)  
 
 ### Assignments
 - 09/30/2021: [Homework 1]({{sites.baseurl}}/static/slides/smcm_fall21/hw01.pdf), **Due** `10/14/2021`
