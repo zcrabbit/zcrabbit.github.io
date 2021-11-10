@@ -48,6 +48,7 @@ We will use python during the course. A good Python tutorial is available at <ht
 - 10/28/2021: [Lecture 8 - Advanced MCMC]({{sites.baseurl}}/static/slides/smcm_fall21/lec08.pdf)  
 - 11/01/2021: [Lecture 9 - Scalable MCMC]({{sites.baseurl}}/static/slides/smcm_fall21/lec09.pdf)  
 - 11/04/2021: [Lecture 10 - Expectation Maximization]({{sites.baseurl}}/static/slides/smcm_fall21/lec10.pdf)  
+- 11/11/2019: [Lecture 11 - Advanced EM]({{sites.baseurl}}/static/slides/smcm_fall21/lec11.pdf)  
 
 ### Assignments
 - 09/30/2021: [Homework 1]({{sites.baseurl}}/static/slides/smcm_fall21/hw01.pdf), **Due** `10/14/2021`
