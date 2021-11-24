@@ -51,7 +51,7 @@ We will use python during the course. A good Python tutorial is available at <ht
 - 11/11/2021: [Lecture 11 - Advanced EM]({{sites.baseurl}}/static/slides/smcm_fall21/lec11.pdf)  
 - 11/15/2021: [Lecture 12 - Variational EM]({{sites.baseurl}}/static/slides/smcm_fall21/lec12.pdf)  
 - 11/18/2021: [Lecture 13 - Variational Inference]({{sites.baseurl}}/static/slides/smcm_fall21/lec13.pdf)  
-
+- 11/25/2019: [Lecture 14 - Stochastic Variational Inference]({{sites.baseurl}}/static/slides/smcm_fall21/lec14.pdf)  
 
 ### Assignments
 - 09/30/2021: [Homework 1]({{sites.baseurl}}/static/slides/smcm_fall21/hw01.pdf), **Due** `10/14/2021`
