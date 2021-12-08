@@ -53,12 +53,16 @@ We will use python during the course. A good Python tutorial is available at <ht
 - 11/18/2021: [Lecture 13 - Variational Inference]({{sites.baseurl}}/static/slides/smcm_fall21/lec13.pdf)  
 - 11/25/2021: [Lecture 14 - Stochastic Variational Inference]({{sites.baseurl}}/static/slides/smcm_fall21/lec14.pdf)  
 - 11/29/2021: [Lecture 15 - Advanced VI - I]({{sites.baseurl}}/static/slides/smcm_fall21/lec15.pdf)  
-- 12/02/2021: [Lecture 16 - Advanced VI - II]({{sites.baseurl}}/static/slides/smcm_fall21/lec16.pdf)
+- 12/02/2021: [Lecture 16 - Advanced VI - II]({{sites.baseurl}}/static/slides/smcm_fall21/lec16.pdf)  
+- 12/09/2021: [Lecture 17 - Autoregressive Models]({{sites.baseurl}}/static/slides/smcm_fall21/lec17.pdf)
+
 
 ### Assignments
 - 09/30/2021: [Homework 1]({{sites.baseurl}}/static/slides/smcm_fall21/hw01.pdf), **Due** `10/14/2021`
 - 10/28/2021: [Homework 2]({{sites.baseurl}}/static/slides/smcm_fall21/hw02.pdf), **Due** `11/11/2021` &nbsp; Data: [p3]({{sites.baseurl}}/static/datasets/probit_data.npy), [p4]({{sites.baseurl}}/static/datasets/mcs_hw2_p3_data.npy)  
-- 11/18/2021: [Homework 3]({{sites.baseurl}}/static/slides/smcm_fall21/hw03.pdf), **Due** `12/02/2021` &nbsp; Data: [p2]({{sites.baseurl}}/static/datasets/absolute_gaussian_data.npy), [p3]({{sites.baseurl}}/static/datasets/btc_hw4_lda_data.p)
+- 11/18/2021: [Homework 3]({{sites.baseurl}}/static/slides/smcm_fall21/hw03.pdf), **Due** `12/02/2021` &nbsp; Data: [p2]({{sites.baseurl}}/static/datasets/absolute_gaussian_data.npy), [p3]({{sites.baseurl}}/static/datasets/btc_hw4_lda_data.p)  
+- 12/09/2021: [Homework 4]({{sites.baseurl}}/static/slides/smcm_fall21/hw04.pdf), **Due** `12/23/2021` &nbsp; Data: [p3]({{sites.baseurl}}/static/datasets/banana_shape_data.npy)
+
 
 ### Final Project
 You may structure your project exploration around a general problem type, algorithm, or data set, but should explore around your problem, testing thoroughly or comparing to alternatives. You may work on the project as teams. Each team may have 2-3 people. Please form your team by the end the 4th week. You should submit a project proposal that briefly describe your project concept and goals in one page by 11/15. You should turn in a write-up (< 10 pages) describing your project and its outcomes, similar to a research-level publication. I suggest the latex styles for [NeurIPS](https://nips.cc/Conferences/2019/PaperInformation/StyleFiles) or [ICLR](https://iclr.cc/Conferences/2019/CallForPapers). There will be in class project presentation at the end of the term. Not presenting your projects will be taken as voluntarily `giving up` the opportunity for the final write-ups.
