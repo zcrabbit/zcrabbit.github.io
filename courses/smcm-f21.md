@@ -54,7 +54,8 @@ We will use python during the course. A good Python tutorial is available at <ht
 - 11/25/2021: [Lecture 14 - Stochastic Variational Inference]({{sites.baseurl}}/static/slides/smcm_fall21/lec14.pdf)  
 - 11/29/2021: [Lecture 15 - Advanced VI - I]({{sites.baseurl}}/static/slides/smcm_fall21/lec15.pdf)  
 - 12/02/2021: [Lecture 16 - Advanced VI - II]({{sites.baseurl}}/static/slides/smcm_fall21/lec16.pdf)  
-- 12/09/2021: [Lecture 17 - Autoregressive Models]({{sites.baseurl}}/static/slides/smcm_fall21/lec17.pdf)
+- 12/09/2021: [Lecture 17 - Autoregressive Models]({{sites.baseurl}}/static/slides/smcm_fall21/lec17.pdf)  
+- 12/13/2021: [Lecture 18 - Variational Autoencoder]({{sites.baseurl}}/static/slides/smcm_fall21/lec18.pdf)
 
 
 ### Assignments
