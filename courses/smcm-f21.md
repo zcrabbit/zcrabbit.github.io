@@ -62,7 +62,7 @@ We will use python during the course. A good Python tutorial is available at <ht
 - 09/30/2021: [Homework 1]({{sites.baseurl}}/static/slides/smcm_fall21/hw01.pdf), **Due** `10/14/2021`
 - 10/28/2021: [Homework 2]({{sites.baseurl}}/static/slides/smcm_fall21/hw02.pdf), **Due** `11/11/2021` &nbsp; Data: [p3]({{sites.baseurl}}/static/datasets/probit_data.npy), [p4]({{sites.baseurl}}/static/datasets/mcs_hw2_p3_data.npy)  
 - 11/18/2021: [Homework 3]({{sites.baseurl}}/static/slides/smcm_fall21/hw03.pdf), **Due** `12/02/2021` &nbsp; Data: [p2]({{sites.baseurl}}/static/datasets/absolute_gaussian_data.npy), [p3]({{sites.baseurl}}/static/datasets/btc_hw4_lda_data.p)  
-- 12/09/2021: [Homework 4]({{sites.baseurl}}/static/slides/smcm_fall21/hw04.pdf), **Due** `12/23/2021` &nbsp; Data: [p3]({{sites.baseurl}}/static/datasets/banana_shape_data.npy)
+- 12/09/2021: [Homework 4]({{sites.baseurl}}/static/slides/smcm_fall21/hw04.pdf), **Due** `12/30/2021` &nbsp; Data: [p3]({{sites.baseurl}}/static/datasets/banana_shape_data.npy)
 
 
 ### Final Project
