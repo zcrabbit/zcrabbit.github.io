@@ -57,7 +57,7 @@ We will use python during the course. A good Python tutorial is available at <ht
 - 12/09/2021: [Lecture 17 - Autoregressive Models]({{sites.baseurl}}/static/slides/smcm_fall21/lec17.pdf)  
 - 12/13/2021: [Lecture 18 - Variational Autoencoder]({{sites.baseurl}}/static/slides/smcm_fall21/lec18.pdf)  
 - 12/16/2021: [Lecture 19 - Generative Adversarial Networks]({{sites.baseurl}}/static/slides/smcm_fall21/lec19.pdf)  
-
+- 12/23/2021: [Lecture 20 - Energy-based and Score-based Models]({{sites.baseurl}}/static/slides/smcm_fall21/lec20.pdf)
 
 ### Assignments
 - 09/30/2021: [Homework 1]({{sites.baseurl}}/static/slides/smcm_fall21/hw01.pdf), **Due** `10/14/2021`
@@ -96,6 +96,6 @@ You may structure your project exploration around a general problem type, algori
 | 13    |12/09 | Autoregressive Models |       |
 | 14    |12/13 | Variational Autoencoder  |    |
 |       |12/16 | Generative Adversarial Networks |     |
-| 15    |12/23 | Applications in Computational Biology |     |
+| 15    |12/23 | Energy-based Models, Score-based Models |     |
 | 16    |12/27 | Project Presentation  |    |
 |       |12/30 | Project Presentation  |    |
