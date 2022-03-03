@@ -41,6 +41,7 @@ We will use python during the course. A good Python tutorial is available at <ht
 ### Lectures
 - 02/23/2021: [Lecture 1 - Introduction]({{sites.baseurl}}/static/slides/btc_spring22/lec01.pdf)  
 - 02/25/2021: [Lecture 2 - Single and Multiple Parameter Models]({{sites.baseurl}}/static/slides/btc_spring22/lec02.pdf)
+- 03/04/2021: [Lecture 3 - Monte Carlo Methods]({{sites.baseurl}}/static/slides/btc_spring22/lec03.pdf)
 
 
 
