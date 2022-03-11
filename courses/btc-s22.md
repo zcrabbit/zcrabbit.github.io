@@ -48,6 +48,7 @@ We will use python during the course. A good Python tutorial is available at <ht
 
 
 ### Assignments
+- 03/11/2021: [Homework 1]({{sites.baseurl}}/static/slides/btc_spring22/hw01.pdf), **Due** `03/25/2021`
 
 
 
