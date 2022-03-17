@@ -72,18 +72,3 @@ You may structure your project exploration around a general problem type, algori
 |       |03/25 | Importance Sampling, Variance Reduction Techniques|       |
 | 6     |04/01 | Sequential Monte Carlo|     |
 | 7     |04/06 | MALA, Hamiltonian Monte Carlo, Adaptive MCMC|       |
-
-<!--
-|       |04/23 | Scalable MCMC Methods |         |
-| 8     |04/30 | -- |    International Workers’ Day |
-| 9     |05/04 | Expectation Maximization |
-|       |05/07 | Variational Bayesian EM |   `proposal presentation`   |
-| 10    |05/14 | Variational Inference, Mean Field VI |      |
-| 11    |05/18 | Stochastic Variational Inference |
-|       |05/21 | Normalizing Flow, Combining VI and MCMC |          |
-| 12    |05/28 | Gaussian Processes, Sparse Gaussian Processes|       |
-| 13    |06/01 | Dirichlet Processes, DP Mixture Models|    |
-|       |06/04 | Project Presentation |     |
-| 14    |06/11 | Project Presentation |     |
-| 15    |06/15 | Project Presentation |    |
-|       |06/18 | Project Presentation |    | -->
