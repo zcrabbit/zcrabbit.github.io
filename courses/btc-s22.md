@@ -69,10 +69,12 @@ You may structure your project exploration around a general problem type, algori
 |       |03/11 | Parallel Tempering, Slice Sampling, Hierarchical Models|    |
 | 4     |03/18 | Linear Models, Generalized Linear Models |    |
 | 5     |03/23 | Bayesian Decision Theory, Bayesian Model Selection |     |
-|       |03/25 | Importance Sampling, Variance Reduction Techniques|       <!-- PS2 out, due 10/23 -->
+|       |03/25 | Importance Sampling, Variance Reduction Techniques|       |
 | 6     |04/01 | Sequential Monte Carlo|     |
 | 7     |04/06 | MALA, Hamiltonian Monte Carlo, Adaptive MCMC|       |
-<!-- |       |04/23 | Scalable MCMC Methods |         |
+
+<!--
+|       |04/23 | Scalable MCMC Methods |         |
 | 8     |04/30 | -- |    International Workers’ Day |
 | 9     |05/04 | Expectation Maximization |
 |       |05/07 | Variational Bayesian EM |   `proposal presentation`   |
