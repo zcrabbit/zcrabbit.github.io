@@ -44,6 +44,7 @@ We will use python during the course. A good Python tutorial is available at <ht
 - 03/04/2022: [Lecture 3 - Monte Carlo Methods]({{sites.baseurl}}/static/slides/btc_spring22/lec03.pdf)
 - 03/09/2022: [Lecture 4 - Markov Chain Monte Carlo I]({{sites.baseurl}}/static/slides/btc_spring22/lec04.pdf)
 - 03/11/2022: [Lecture 5 - Markov Chain Monte Carlo II]({{sites.baseurl}}/static/slides/btc_spring22/lec05.pdf)
+- 03/18/2021: [Lecture 6 - Linear and Generalized Linear Models]({{sites.baseurl}}/static/slides/btc_spring22/lec06.pdf)
 
 
 
@@ -67,13 +68,12 @@ You may structure your project exploration around a general problem type, algori
 | 3     |03/09 | Metropolis Hastings, Gibbs Sampling|  
 |       |03/11 | Parallel Tempering, Slice Sampling, Hierarchical Models|    |
 | 4     |03/18 | Linear Models, Generalized Linear Models |    |
-
-<!-- | 5     |04/06 | Bayesian Decision Theory, Bayesian Model Selection |     | -->
-<!-- |       |04/09 | Importance Sampling, Variance Reduction Techniques|        -->
-<!--PS2 out, due 10/23-->
-<!-- | 6     |04/16 | Sequential Monte Carlo|     |
-| 7     |04/20 | Hamiltonian Monte Carlo, Adaptive MCMC|       |
-|       |04/23 | Scalable MCMC Methods |         |
+| 5     |03/23 | Bayesian Decision Theory, Bayesian Model Selection |     |
+|       |03/25 | Importance Sampling, Variance Reduction Techniques|       
+<!-- PS2 out, due 10/23 -->
+| 6     |04/01 | Sequential Monte Carlo|     |
+| 7     |04/06 | MALA, Hamiltonian Monte Carlo, Adaptive MCMC|       |
+<!-- |       |04/23 | Scalable MCMC Methods |         |
 | 8     |04/30 | -- |    International Workers’ Day |
 | 9     |05/04 | Expectation Maximization |
 |       |05/07 | Variational Bayesian EM |   `proposal presentation`   |
