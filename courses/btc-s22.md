@@ -44,12 +44,13 @@ We will use python during the course. A good Python tutorial is available at <ht
 - 03/04/2022: [Lecture 3 - Monte Carlo Methods]({{sites.baseurl}}/static/slides/btc_spring22/lec03.pdf)
 - 03/09/2022: [Lecture 4 - Markov Chain Monte Carlo I]({{sites.baseurl}}/static/slides/btc_spring22/lec04.pdf)
 - 03/11/2022: [Lecture 5 - Markov Chain Monte Carlo II]({{sites.baseurl}}/static/slides/btc_spring22/lec05.pdf)
-- 03/18/2021: [Lecture 6 - Linear and Generalized Linear Models]({{sites.baseurl}}/static/slides/btc_spring22/lec06.pdf)
+- 03/18/2022: [Lecture 6 - Linear and Generalized Linear Models]({{sites.baseurl}}/static/slides/btc_spring22/lec06.pdf)
+- 03/23/2022: [Lecture 7 - Decision Theory and Model Selection]({{sites.baseurl}}/static/slides/btc_spring22/lec07.pdf)
 
 
 
 ### Assignments
-- 03/11/2021: [Homework 1]({{sites.baseurl}}/static/slides/btc_spring22/hw01.pdf), **Due** `03/25/2021`
+- 03/11/2022: [Homework 1]({{sites.baseurl}}/static/slides/btc_spring22/hw01.pdf), **Due** `03/25/2022`
 
 
 
