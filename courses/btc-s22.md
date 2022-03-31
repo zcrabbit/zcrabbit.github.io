@@ -47,11 +47,13 @@ We will use python during the course. A good Python tutorial is available at <ht
 - 03/18/2022: [Lecture 6 - Linear and Generalized Linear Models]({{sites.baseurl}}/static/slides/btc_spring22/lec06.pdf)
 - 03/23/2022: [Lecture 7 - Decision Theory and Model Selection]({{sites.baseurl}}/static/slides/btc_spring22/lec07.pdf)
 - 03/25/2022: [Lecture 8 - Importance Sampling]({{sites.baseurl}}/static/slides/btc_spring22/lec08.pdf)
+- 04/01/2022: [Lecture 9 - Sequential Monte Carlo]({{sites.baseurl}}/static/slides/btc_spring22/lec09.pdf)
 
 
 
 ### Assignments
 - 03/11/2022: [Homework 1]({{sites.baseurl}}/static/slides/btc_spring22/hw01.pdf), **Due** `03/25/2022`
+- 04/01/2022: [Homework 2]({{sites.baseurl}}/static/slides/btc_spring21/hw02.pdf), **Due** `04/15/2022`
 
 
 
@@ -74,3 +76,7 @@ You may structure your project exploration around a general problem type, algori
 |       |03/25 | Importance Sampling, Variance Reduction Techniques|       |
 | 6     |04/01 | Sequential Monte Carlo|     |
 | 7     |04/06 | MALA, Hamiltonian Monte Carlo, Adaptive MCMC|       |
+|       |04/08 | Scalable MCMC Methods |         |
+| 8     |04/15 | Convergence Theory of MCMC |         |
+| 9     |04/20 | Expectation Maximization |           |
+|       |04/22 | Variational Bayesian EM |   `proposal presentation`   |
