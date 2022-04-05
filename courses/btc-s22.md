@@ -48,6 +48,7 @@ We will use python during the course. A good Python tutorial is available at <ht
 - 03/23/2022: [Lecture 7 - Decision Theory and Model Selection]({{sites.baseurl}}/static/slides/btc_spring22/lec07.pdf)
 - 03/25/2022: [Lecture 8 - Importance Sampling]({{sites.baseurl}}/static/slides/btc_spring22/lec08.pdf)
 - 04/01/2022: [Lecture 9 - Sequential Monte Carlo]({{sites.baseurl}}/static/slides/btc_spring22/lec09.pdf)
+- 04/06/2022: [Lecture 10 - Advanced MCMC]({{sites.baseurl}}/static/slides/btc_spring22/lec10.pdf)
 
 
 
