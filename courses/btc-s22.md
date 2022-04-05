@@ -6,6 +6,7 @@ author: Cheng Zhang
 
 ### Basic Info
 - Instructor: Cheng Zhang (<chengzhang@math.pku.edu.cn>)
+- Teaching Assistant: Longlin Yu (<1800010783@pku.edu.cn>)
 - Class times and location: odd Wednesday 1:00-2:50pm, Friday 3:10-5:00pm, Classroom Building No.3, Room 105 
 - Office hours: Thursday 3:00-5:00pm or by appointment, 315 Building No.20
 - [Syllabus]({{sites.baseurl}}/courses/Syllabus-btc-s22.pdf)
