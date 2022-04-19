@@ -52,6 +52,7 @@ We will use python during the course. A good Python tutorial is available at <ht
 - 04/06/2022: [Lecture 10 - Advanced MCMC]({{sites.baseurl}}/static/slides/btc_spring22/lec10.pdf)
 - 04/08/2022: [Lecture 11 - Scalable MCMC]({{sites.baseurl}}/static/slides/btc_spring22/lec11.pdf)
 - 04/15/2022: [Lecture 12 - MCMC Theory]({{sites.baseurl}}/static/slides/btc_spring22/lec12.pdf)
+- 04/20/2022: [Lecture 13 - Expectation Maximization]({{sites.baseurl}}/static/slides/btc_spring22/lec13.pdf)
 
 
 
@@ -84,3 +85,6 @@ You may structure your project exploration around a general problem type, algori
 | 8     |04/15 | Convergence Theory of MCMC |         |
 | 9     |04/20 | Expectation Maximization |           |
 |       |04/22 | Variational Bayesian EM |   `proposal presentation`   |
+| 10    |04/29 | Variational Inference, Mean Field VI |                |
+| 11    |05/04 | --          | Labor Day |
+|       |05/06 | --          | Labor Day |
