@@ -86,5 +86,5 @@ You may structure your project exploration around a general problem type, algori
 | 9     |04/20 | Expectation Maximization |           |
 |       |04/22 | Variational Bayesian EM |   `proposal presentation`   |
 | 10    |04/29 | Variational Inference, Mean Field VI |                |
-| 11    |05/04 | --          | Labor Day |
-|       |05/06 | --          | Labor Day |
+| 11    |05/04 | --          | Labour Day |
+|       |05/06 | --          | Labour Day |
