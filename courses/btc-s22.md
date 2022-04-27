@@ -54,6 +54,7 @@ We will use python during the course. A good Python tutorial is available at <ht
 - 04/15/2022: [Lecture 12 - MCMC Theory]({{sites.baseurl}}/static/slides/btc_spring22/lec12.pdf)
 - 04/20/2022: [Lecture 13 - Expectation Maximization]({{sites.baseurl}}/static/slides/btc_spring22/lec13.pdf)
 - 04/22/2022: [Lecture 14 - Variational EM]({{sites.baseurl}}/static/slides/btc_spring22/lec14.pdf)
+- 04/29/2022: [Lecture 15 - Variational Inference]({{sites.baseurl}}/static/slides/btc_spring22/lec15.pdf)
 
 
 
