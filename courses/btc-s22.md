@@ -55,6 +55,7 @@ We will use python during the course. A good Python tutorial is available at <ht
 - 04/20/2022: [Lecture 13 - Expectation Maximization]({{sites.baseurl}}/static/slides/btc_spring22/lec13.pdf)
 - 04/22/2022: [Lecture 14 - Variational EM]({{sites.baseurl}}/static/slides/btc_spring22/lec14.pdf)
 - 04/29/2022: [Lecture 15 - Variational Inference]({{sites.baseurl}}/static/slides/btc_spring22/lec15.pdf)
+- 05/13/2022: [Lecture 16 - Stochastic Variational Inference]({{sites.baseurl}}/static/slides/btc_spring22/lec16.pdf)
 
 
 
@@ -91,3 +92,10 @@ You may structure your project exploration around a general problem type, algori
 | 10    |04/29 | Variational Inference, Mean Field VI |                |
 | 11    |05/04 | --          | Labour Day |
 |       |05/06 | --          | Labour Day |
+| 12    |05/13 | Stochastic Variational Inference |         |
+| 13    |05/18 | Gaussian Processes, Sparse Gaussian Processes |       |
+|       |05/20 | Sparse Gaussian Processes, Dirichlet Processes |      |
+| 14    |05/27 | Dirichlet Processes, DP Mixture Models |              |
+| 15    |06/01 | Project Presentation |    |
+|       |06/03 | Project Presentation |    |
+| 16    |06/10 | Project Presentation |    |
