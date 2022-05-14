@@ -94,8 +94,8 @@ You may structure your project exploration around a general problem type, algori
 |       |05/06 | --          | Labour Day |
 | 12    |05/13 | Stochastic Variational Inference |         |
 | 13    |05/18 | Gaussian Processes, Sparse Gaussian Processes |       |
-|       |05/20 | Sparse Gaussian Processes, Dirichlet Processes |      |
-| 14    |05/27 | Dirichlet Processes, DP Mixture Models |              |
+|       |05/20 | Dirichlet Processes, DP Mixture Models |      |
+| 14    |05/27 | Project Presentation |              |
 | 15    |06/01 | Project Presentation |    |
-|       |06/03 | Project Presentation |    |
+|       |06/03 | -- |  Dragon Boat Festival  |
 | 16    |06/10 | Project Presentation |    |
