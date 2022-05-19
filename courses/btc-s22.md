@@ -57,6 +57,7 @@ We will use python during the course. A good Python tutorial is available at <ht
 - 04/29/2022: [Lecture 15 - Variational Inference]({{sites.baseurl}}/static/slides/btc_spring22/lec15.pdf)
 - 05/13/2022: [Lecture 16 - Stochastic Variational Inference]({{sites.baseurl}}/static/slides/btc_spring22/lec16.pdf)
 - 05/18/2022: [Lecture 17 - Gaussian Processes]({{sites.baseurl}}/static/slides/btc_spring22/lec17.pdf)
+- 05/20/2022: [Lecture 18 - Dirichlet Processes]({{sites.baseurl}}/static/slides/btc_spring22/lec18.pdf)
 
 
 
@@ -64,6 +65,7 @@ We will use python during the course. A good Python tutorial is available at <ht
 - 03/11/2022: [Homework 1]({{sites.baseurl}}/static/slides/btc_spring22/hw01.pdf), **Due** `03/25/2022`
 - 04/01/2022: [Homework 2]({{sites.baseurl}}/static/slides/btc_spring22/hw02.pdf), **Due** `04/15/2022`
 - 04/29/2022: [Homework 3]({{sites.baseurl}}/static/slides/btc_spring22/hw03.pdf), **Due** `05/13/2022`
+- 05/20/2022: [Homework 4]({{sites.baseurl}}/static/slides/btc_spring22/hw04.pdf), **Due** `06/10/2022` &nbsp; Data: [p1]({{sites.baseurl}}/static/datasets/btc_hw4_lda_data.p), [p4]({{sites.baseurl}}/static/datasets/btc_hw4_dp_data.npy)
 
 
 
