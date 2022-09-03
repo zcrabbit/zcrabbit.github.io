@@ -3,6 +3,9 @@ layout: page
 title: Courses
 ---
 
+- [Statistical Models and Computing Methods]({{sites.baseurl}}/courses/smcm-f22.html)  
+Fall, 2022
+
 - [Bayesian Theory and Computation]({{sites.baseurl}}/courses/btc-s22.html)  
 Spring, 2022
 
