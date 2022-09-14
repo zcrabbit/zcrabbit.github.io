@@ -40,7 +40,7 @@ We will use python during the course. A good Python tutorial is available at <ht
 - 09/06/2022: [Lecture 1 - Introduction]({{sites.baseurl}}/static/slides/smcm_fall22/lec01.pdf)
 - 09/13/2022: [Lecture 2 - Optimization]({{sites.baseurl}}/static/slides/smcm_fall22/lec02.pdf)   
   Textbook on convex optimization: <https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf> 
-- 09/15/2021: [Lecture 3 - Advanced Gradient Methods]({{sites.baseurl}}/static/slides/smcm_fall22/lec03.pdf) 
+- 09/15/2022: [Lecture 3 - Advanced Gradient Methods]({{sites.baseurl}}/static/slides/smcm_fall22/lec03.pdf) 
 
 ### Assignments
 
