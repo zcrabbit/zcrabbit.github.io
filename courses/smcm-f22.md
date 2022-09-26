@@ -41,7 +41,8 @@ We will use python during the course. A good Python tutorial is available at <ht
 - 09/13/2022: [Lecture 2 - Optimization]({{sites.baseurl}}/static/slides/smcm_fall22/lec02.pdf)   
   Textbook on convex optimization: <https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf> 
 - 09/15/2022: [Lecture 3 - Advanced Gradient Methods]({{sites.baseurl}}/static/slides/smcm_fall22/lec03.pdf) 
-- 09/20/2022: [Lecture 4 - Numerical Integration]({{sites.baseurl}}/static/slides/smcm_fall22/lec04.pdf) 
+- 09/20/2022: [Lecture 4 - Numerical Integration]({{sites.baseurl}}/static/slides/smcm_fall22/lec04.pdf)
+- 09/27/2021: [Lecture 5 - Advanced Monte Carlo]({{sites.baseurl}}/static/slides/smcm_fall22/lec05.pdf) 
 
 ### Assignments
 - 09/20/2022: [Homework 1]({{sites.baseurl}}/static/slides/smcm_fall22/hw01.pdf), **Due** `10/04/2022`
