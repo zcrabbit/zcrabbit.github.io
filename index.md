@@ -7,7 +7,7 @@ title: Cheng Zhang
 **Assistant Professor**  
 [School of Mathematical Sciences](http://www.math.pku.edu.cn)   
 [Peking University](https://pku.edu.cn)  
-**Office**: Science Building No.1, 1279E  
+**Office**: Building No.20, 315  
 **Email**: chengzhang@math.pku.edu.cn  
 **Github**: [@zcrabbit](https://github.com/zcrabbit)  
 
