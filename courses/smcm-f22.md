@@ -51,10 +51,12 @@ We will use python during the course. A good Python tutorial is available at <ht
 - 10/25/2022: [Lecture 11 - Advanced EM]({{sites.baseurl}}/static/slides/smcm_fall22/lec11.pdf)
 - 10/27/2022: [Lecture 12 - Variational EM]({{sites.baseurl}}/static/slides/smcm_fall22/lec12.pdf) 
 - 11/01/2022: [Lecture 13 - Variational Inference]({{sites.baseurl}}/static/slides/smcm_fall22/lec13.pdf) 
+- 11/08/2022: [Lecture 14 - Stochastic Variational Inference]({{sites.baseurl}}/static/slides/smcm_fall22/lec14.pdf) 
 
 ### Assignments
 - 09/20/2022: [Homework 1]({{sites.baseurl}}/static/slides/smcm_fall22/hw01.pdf), **Due** `10/04/2022`
 - 10/11/2022: [Homework 2]({{sites.baseurl}}/static/slides/smcm_fall22/hw02.pdf), **Due** `10/25/2022` &nbsp; Data: [p3]({{sites.baseurl}}/static/datasets/probit_data.npy), [p4]({{sites.baseurl}}/static/datasets/mcs_hw2_p3_data.npy) 
+- 11/08/2022: [Homework 3]({{sites.baseurl}}/static/slides/smcm_fall22/hw03.pdf), **Due** `11/22/2022` &nbsp; Data: [p2]({{sites.baseurl}}/static/datasets/absolute_gaussian_data.npy), [p3]({{sites.baseurl}}/static/datasets/btc_hw4_lda_data.p)
 
 
 
@@ -86,6 +88,6 @@ You may structure your project exploration around a general problem type, algori
 | 12    |11/22 | Autoregressive Models |          |
 |       |11/24 | Variational Autoencoder |       |
 | 13    |11/29 | Generative Adversarial Networks  |    |
-| 14    |12/06 | Energy-based Models, Score-based Models |     |
+| 14    |12/06 | Project Presentation  |     |
 |       |12/08 | Project Presentation  |     |
 | 15    |12/13 | Project Presentation  |    |
