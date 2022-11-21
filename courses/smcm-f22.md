@@ -53,7 +53,8 @@ We will use python during the course. A good Python tutorial is available at <ht
 - 11/01/2022: [Lecture 13 - Variational Inference]({{sites.baseurl}}/static/slides/smcm_fall22/lec13.pdf) 
 - 11/08/2022: [Lecture 14 - Stochastic Variational Inference]({{sites.baseurl}}/static/slides/smcm_fall22/lec14.pdf) 
 - 11/10/2022: [Lecture 15 - Advanced VI - I]({{sites.baseurl}}/static/slides/smcm_fall22/lec15.pdf) 
-- 11/15/2022: [Lecture 16 - Advanced VI - II]({{sites.baseurl}}/static/slides/smcm_fall22/lec16.pdf) 
+- 11/15/2022: [Lecture 16 - Advanced VI - II]({{sites.baseurl}}/static/slides/smcm_fall22/lec16.pdf)
+- 11/22/2022: [Lecture 17 - Autoregressive Models]({{sites.baseurl}}/static/slides/smcm_fall22/lec17.pdf)  
 
 ### Assignments
 - 09/20/2022: [Homework 1]({{sites.baseurl}}/static/slides/smcm_fall22/hw01.pdf), **Due** `10/04/2022`
