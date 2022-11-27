@@ -56,11 +56,13 @@ We will use python during the course. A good Python tutorial is available at <ht
 - 11/15/2022: [Lecture 16 - Advanced VI - II]({{sites.baseurl}}/static/slides/smcm_fall22/lec16.pdf)
 - 11/22/2022: [Lecture 17 - Autoregressive Models]({{sites.baseurl}}/static/slides/smcm_fall22/lec17.pdf)  
 - 11/24/2022: [Lecture 18 - Variational Autoencoder]({{sites.baseurl}}/static/slides/smcm_fall22/lec18.pdf) 
+- 11/29/2022: [Lecture 19 - Generative Adversarial Networks]({{sites.baseurl}}/static/slides/smcm_fall22/lec19.pdf) 
 
 ### Assignments
 - 09/20/2022: [Homework 1]({{sites.baseurl}}/static/slides/smcm_fall22/hw01.pdf), **Due** `10/04/2022`
 - 10/11/2022: [Homework 2]({{sites.baseurl}}/static/slides/smcm_fall22/hw02.pdf), **Due** `10/25/2022` &nbsp; Data: [p3]({{sites.baseurl}}/static/datasets/probit_data.npy), [p4]({{sites.baseurl}}/static/datasets/mcs_hw2_p3_data.npy) 
 - 11/08/2022: [Homework 3]({{sites.baseurl}}/static/slides/smcm_fall22/hw03.pdf), **Due** `11/22/2022` &nbsp; Data: [p2]({{sites.baseurl}}/static/datasets/absolute_gaussian_data.npy), [p3]({{sites.baseurl}}/static/datasets/btc_hw4_lda_data.p)
+- 11/29/2022: [Homework 4]({{sites.baseurl}}/static/slides/smcm_fall22/hw04.pdf), **Due** `12/13/2022` &nbsp; Data: [p3]({{sites.baseurl}}/static/datasets/banana_shape_data.npy)
 
 
 
