@@ -3,6 +3,13 @@ layout: page
 title: Publications
 ---
 
+- [Learnable Topological Features for Phylogenetic Inference via Graph Neural Networks](https://openreview.net/forum?id=hVVUY7p64WL)   
+Cheng Zhang  
+_In Proceedings of the 11th International Conference on Learning Representations (ICLR 2023)_
+
+- [Semi-Implicit Variational Inference via Score Matching](https://openreview.net/forum?id=sd90a2ytrt)  
+Longlin Yu, Cheng Zhang  
+_In Proceedings of the 11th International Conference on Learning Representations (ICLR 2023, spotlight presentation)_
 
 - [Non-bifurcating Phylogenetic Tree Inference via The Adaptive LASSO](https://arxiv.org/abs/1805.11073)  
 Cheng Zhang\*, Vu Dinh\*, Frederick A. Matsen IV  
