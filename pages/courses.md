@@ -3,6 +3,9 @@ layout: page
 title: Courses
 ---
 
+- [Statistical Models and Computing Methods]({{sites.baseurl}}/courses/smcm-f23.html)  
+Fall, 2023
+
 - [Statistical Models and Computing Methods]({{sites.baseurl}}/courses/smcm-f22.html)  
 Fall, 2022
 
