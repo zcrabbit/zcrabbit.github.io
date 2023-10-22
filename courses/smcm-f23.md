@@ -45,9 +45,11 @@ We will use python during the course. A good Python tutorial is available at <ht
 - 10/09/2023: [Lecture 5 - Advanced Monte Carlo]({{sites.baseurl}}/static/slides/smcm_fall23/lec05.pdf)  
 - 10/13/2023, 10/16/2023: [Lecture 6, 7 - Markov Chain Monte Carlo]({{sites.baseurl}}/static/slides/smcm_fall23/lec0607.pdf)  
   Handbook of Markov Chain Monte Carlo: <https://www.mcmchandbook.net>  
+- 10/23/2023: [Lecture 8 - Advanced MCMC]({{sites.baseurl}}/static/slides/smcm_fall23/lec08.pdf)
 
 ### Assignments
-- 09/25/2023: [Homework 1]({{sites.baseurl}}/static/slides/smcm_fall23/hw01.pdf), **Due** `10/09/2023`
+- 09/25/2023: [Homework 1]({{sites.baseurl}}/static/slides/smcm_fall23/hw01.pdf), **Due** `10/09/2023`  
+- 10/23/2023: [Homework 2]({{sites.baseurl}}/static/slides/smcm_fall23/hw02.pdf), **Due** `11/06/2023` &nbsp; Data: [p3]({{sites.baseurl}}/static/datasets/probit_data.npy), [p4]({{sites.baseurl}}/static/datasets/mcs_hw2_p3_data.npy) 
 
 
 ### Final Project
