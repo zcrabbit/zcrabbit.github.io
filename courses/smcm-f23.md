@@ -47,6 +47,7 @@ We will use python during the course. A good Python tutorial is available at <ht
   Handbook of Markov Chain Monte Carlo: <https://www.mcmchandbook.net>  
 - 10/23/2023: [Lecture 8 - Advanced MCMC]({{sites.baseurl}}/static/slides/smcm_fall23/lec08.pdf)  
 - 10/27/2023: [Lecture 9 - Scalable MCMC]({{sites.baseurl}}/static/slides/smcm_fall23/lec09.pdf)  
+- 10/30/2023: [Lecture 10 - Expectation Maximization]({{sites.baseurl}}/static/slides/smcm_fall23/lec10.pdf)  
 
 ### Assignments
 - 09/25/2023: [Homework 1]({{sites.baseurl}}/static/slides/smcm_fall23/hw01.pdf), **Due** `10/09/2023`  
