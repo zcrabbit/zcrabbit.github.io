@@ -3,13 +3,39 @@ layout: page
 title: Publications
 ---
 
+- [Particle-based Variational Inference with Generalized Wasserstein Gradient Flow](http://arxiv.org/abs/2310.16516)  
+Ziheng Cheng\*, Shiyue Zhang\*, Longlin Yu, Cheng Zhang  
+_In Proceedings of the 37th in Neural Information Processing Systems (NeurIPS 2023)_  
+[[code]](https://github.com/Alexczh1/GWG)
+
+- [Hierarchical Semi-Implicit Variational Inference with Application to Diffusion Model Acceleration](https://arxiv.org/abs/2310.17153)  
+Longlin Yu\*, Tianyu Xie\*, Yu Zhu\*, Tong Yang, Xiangyu Zhang, Cheng Zhang  
+_In Proceedings of the 37th in Neural Information Processing Systems (NeurIPS 2023)_  
+[[code]](https://github.com/longinYu/HSIVI)
+
+- [ARTree: A Deep Autoregressive Model for Phylogenetic Inference](https://arxiv.org/abs/2310.09553)  
+Tianyu Xie, Cheng Zhang  
+_In Proceedings of the 37th in Neural Information Processing Systems (NeurIPS 2023, spotlight presentation)_  
+[[code]](https://github.com/tyuxie/ARTree)
+
+- [A Topology-marginal Composite Likelihood via a Generalized Phylogenetic Pruning Algorithm](https://almob.biomedcentral.com/articles/10.1186/s13015-023-00235-1)    
+Seong-Hwan Jun, Hassan Nasif, Chris Jennings-Shaffer, David H Rich, Anna Kooperberg, Mathieu Fourment, Cheng Zhang, Marc A Suchard, Frederick A Matsen IV  
+_Algorithms for Molecular Biology, 18(10), 2023_
+
+- [A Data-driven and Model-based Accelerated Hamiltonian Monte Carlo Method for Bayesian Elliptic Inverse Problems](https://link.springer.com/article/10.1007/s11222-023-10262-y)    
+Sijing Li, Cheng Zhang, Zhiwen Zhang, Hongkai Zhao  
+_Statistics and Computing, 33(90), 2023_  
+[[code]](https://github.com/LSijing/Bayesian-pde-inverse-problem)
+
 - [Learnable Topological Features for Phylogenetic Inference via Graph Neural Networks](https://openreview.net/forum?id=hVVUY7p64WL)   
 Cheng Zhang  
-_In Proceedings of the 11th International Conference on Learning Representations (ICLR 2023)_
+_In Proceedings of the 11th International Conference on Learning Representations (ICLR 2023)_  
+[[code]](https://github.com/zcrabbit/vbpi-gnn)
 
 - [Semi-Implicit Variational Inference via Score Matching](https://openreview.net/forum?id=sd90a2ytrt)  
 Longlin Yu, Cheng Zhang  
-_In Proceedings of the 11th International Conference on Learning Representations (ICLR 2023, spotlight presentation)_
+_In Proceedings of the 11th International Conference on Learning Representations (ICLR 2023, spotlight presentation)_  
+[[code]](https://github.com/longinyu/sivism)
 
 - [Non-bifurcating Phylogenetic Tree Inference via The Adaptive LASSO](https://arxiv.org/abs/1805.11073)  
 Cheng Zhang\*, Vu Dinh\*, Frederick A. Matsen IV  
