@@ -5,21 +5,21 @@ title: Publications
 
 - [Particle-based Variational Inference with Generalized Wasserstein Gradient Flow](http://arxiv.org/abs/2310.16516)  
 Ziheng Cheng\*, Shiyue Zhang\*, Longlin Yu, Cheng Zhang  
-_In Proceedings of the 37th in Neural Information Processing Systems (NeurIPS 2023)_  
+_In Proceedings of the 37th Neural Information Processing Systems (NeurIPS 2023)_  
 [[code]](https://github.com/Alexczh1/GWG)
 
 - [Hierarchical Semi-Implicit Variational Inference with Application to Diffusion Model Acceleration](https://arxiv.org/abs/2310.17153)  
 Longlin Yu\*, Tianyu Xie\*, Yu Zhu\*, Tong Yang, Xiangyu Zhang, Cheng Zhang  
-_In Proceedings of the 37th in Neural Information Processing Systems (NeurIPS 2023)_  
+_In Proceedings of the 37th Neural Information Processing Systems (NeurIPS 2023)_  
 [[code]](https://github.com/longinYu/HSIVI)
 
 - [ARTree: A Deep Autoregressive Model for Phylogenetic Inference](https://arxiv.org/abs/2310.09553)  
 Tianyu Xie, Cheng Zhang  
-_In Proceedings of the 37th in Neural Information Processing Systems (NeurIPS 2023, spotlight presentation)_  
+_In Proceedings of the 37th Neural Information Processing Systems (NeurIPS 2023, spotlight presentation)_  
 [[code]](https://github.com/tyuxie/ARTree)
 
 - [A Topology-marginal Composite Likelihood via a Generalized Phylogenetic Pruning Algorithm](https://almob.biomedcentral.com/articles/10.1186/s13015-023-00235-1)    
-Seong-Hwan Jun, Hassan Nasif, Chris Jennings-Shaffer, David H Rich, Anna Kooperberg, Mathieu Fourment, Cheng Zhang, Marc A Suchard, Frederick A Matsen IV  
+Seong-Hwan Jun, Hassan Nasif, Chris Jennings-Shaffer, David H Rich, Anna Kooperberg, Mathieu Fourment, Cheng Zhang, Marc A. Suchard, Frederick A. Matsen IV  
 _Algorithms for Molecular Biology, 18(10), 2023_
 
 - [A Data-driven and Model-based Accelerated Hamiltonian Monte Carlo Method for Bayesian Elliptic Inverse Problems](https://link.springer.com/article/10.1007/s11222-023-10262-y)    
