@@ -3,17 +3,17 @@ layout: page
 title: Publications
 ---
 
-- [Particle-based Variational Inference with Generalized Wasserstein Gradient Flow](http://arxiv.org/abs/2310.16516)  
+- [Particle-based Variational Inference with Generalized Wasserstein Gradient Flow](https://openreview.net/pdf?id=oNuam8eFz2)  
 Ziheng Cheng\*, Shiyue Zhang\*, Longlin Yu, Cheng Zhang  
 _In Proceedings of the 37th Neural Information Processing Systems (NeurIPS 2023)_  
 [[code]](https://github.com/Alexczh1/GWG)
 
-- [Hierarchical Semi-Implicit Variational Inference with Application to Diffusion Model Acceleration](https://arxiv.org/abs/2310.17153)  
+- [Hierarchical Semi-Implicit Variational Inference with Application to Diffusion Model Acceleration](https://openreview.net/pdf?id=ghIBaprxsV)  
 Longlin Yu\*, Tianyu Xie\*, Yu Zhu\*, Tong Yang, Xiangyu Zhang, Cheng Zhang  
 _In Proceedings of the 37th Neural Information Processing Systems (NeurIPS 2023)_  
 [[code]](https://github.com/longinYu/HSIVI)
 
-- [ARTree: A Deep Autoregressive Model for Phylogenetic Inference](https://arxiv.org/abs/2310.09553)  
+- [ARTree: A Deep Autoregressive Model for Phylogenetic Inference](https://openreview.net/pdf?id=SoLebIqHgZ)  
 Tianyu Xie, Cheng Zhang  
 _In Proceedings of the 37th Neural Information Processing Systems (NeurIPS 2023, spotlight presentation)_  
 [[code]](https://github.com/tyuxie/ARTree)
