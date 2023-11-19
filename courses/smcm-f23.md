@@ -51,10 +51,12 @@ We will use python during the course. A good Python tutorial is available at <ht
 - 11/06/2023: [Lecture 11 - Advanced EM]({{sites.baseurl}}/static/slides/smcm_fall23/lec11.pdf)  
 - 11/10/2023: [Lecture 12 - Variational EM]({{sites.baseurl}}/static/slides/smcm_fall23/lec12.pdf)  
 - 11/13/2023: [Lecture 13 - Variational Inference]({{sites.baseurl}}/static/slides/smcm_fall23/lec13.pdf) 
+- 11/20/2023: [Lecture 14 - Stochastic Variational Inference]({{sites.baseurl}}/static/slides/smcm_fall23/lec14.pdf)  
 
 ### Assignments
 - 09/25/2023: [Homework 1]({{sites.baseurl}}/static/slides/smcm_fall23/hw01.pdf), **Due** `10/09/2023`  
-- 10/23/2023: [Homework 2]({{sites.baseurl}}/static/slides/smcm_fall23/hw02.pdf), **Due** `11/06/2023` &nbsp; Data: [p3]({{sites.baseurl}}/static/datasets/probit_data.npy), [p4]({{sites.baseurl}}/static/datasets/mcs_hw2_p3_data.npy) 
+- 10/23/2023: [Homework 2]({{sites.baseurl}}/static/slides/smcm_fall23/hw02.pdf), **Due** `11/06/2023` &nbsp; Data: [p3]({{sites.baseurl}}/static/datasets/probit_data.npy), [p4]({{sites.baseurl}}/static/datasets/mcs_hw2_p3_data.npy)  
+- 11/20/2023: [Homework 3]({{sites.baseurl}}/static/slides/smcm_fall22/hw03.pdf), **Due** `12/07/2023` &nbsp; Data: [p2]({{sites.baseurl}}/static/datasets/absolute_gaussian_data.npy), [p3]({{sites.baseurl}}/static/datasets/btc_hw4_lda_data.p)
 
 
 ### Final Project
