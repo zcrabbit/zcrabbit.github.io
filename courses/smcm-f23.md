@@ -54,6 +54,8 @@ We will use python during the course. A good Python tutorial is available at <ht
 - 11/20/2023: [Lecture 14 - Stochastic Variational Inference]({{sites.baseurl}}/static/slides/smcm_fall23/lec14.pdf) 
 - 11/24/2023: [Lecture 15 - Advanced VI - I]({{sites.baseurl}}/static/slides/smcm_fall23/lec15.pdf) 
 - 11/27/2023: [Lecture 16 - Advanced VI - II]({{sites.baseurl}}/static/slides/smcm_fall23/lec16.pdf)  
+- 12/04/2023: [Lecture 17 - Generative Models - I]({{sites.baseurl}}/static/slides/smcm_fall23/lec17.pdf)  
+- 12/08/2023: [Lecture 18 - Generative Models - II]({{sites.baseurl}}/static/slides/smcm_fall23/lec18.pdf) 
 
 ### Assignments
 - 09/25/2023: [Homework 1]({{sites.baseurl}}/static/slides/smcm_fall23/hw01.pdf), **Due** `10/09/2023`  
@@ -89,8 +91,8 @@ You may structure your project exploration around a general problem type, algori
 |       |11/24 | Choice of Training Objectives, Expectation Propagation, Stein Variational Gradient Descent |      |
 | 12    |11/27 | Normalizing Flow, Combinig VI and MCMC |        
 | 13    |12/04 | Autoregressive Models |          |
-|       |12/08 | Variational Autoencoder |       |
-| 14    |12/11 | Generative Adversarial Networks  |    |
+|       |12/08 | Variational Autoencoder, Generative Adversarial Networks  |       |
+| 14    |12/11 | Project Presentation  |    |
 | 15    |12/18 | Project Presentation  |     |
 |       |12/22 | Project Presentation  |     |
 | 16    |12/25 | Project Presentation  |    |
