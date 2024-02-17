@@ -3,6 +3,9 @@ layout: page
 title: Courses
 ---
 
+- [Bayesian Theory and Computation]({{sites.baseurl}}/courses/btc-s24.html)  
+Spring, 2024
+
 - [Statistical Models and Computing Methods]({{sites.baseurl}}/courses/smcm-f23.html)  
 Fall, 2023
 
