@@ -49,7 +49,7 @@ We will use python during the course. A good Python tutorial is available at <ht
 
 
 ### Assignments
-<!-- - 03/11/2022: [Homework 1]({{sites.baseurl}}/static/slides/btc_spring22/hw01.pdf), **Due** `03/25/2022` -->
+- 03/06/2024: [Homework 1]({{sites.baseurl}}/static/slides/btc_spring24/hw01.pdf), **Due** `03/20/2024`
 
 
 
