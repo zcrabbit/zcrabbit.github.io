@@ -44,7 +44,8 @@ We will use python during the course. A good Python tutorial is available at <ht
 - 02/21/2024: [Lecture 2 - Single and Multiple Parameter Models]({{sites.baseurl}}/static/slides/btc_spring24/lec02.pdf)  
 - 02/26/2024: [Lecture 3 - Monte Carlo Methods]({{sites.baseurl}}/static/slides/btc_spring24/lec03.pdf)  
 - 03/04/2024: [Lecture 4 - Markov Chain Monte Carlo I]({{sites.baseurl}}/static/slides/btc_spring24/lec04.pdf)  
-- 03/06/2024: [Lecture 5 - Markov Chain Monte Carlo II]({{sites.baseurl}}/static/slides/btc_spring24/lec05.pdf)
+- 03/06/2024: [Lecture 5 - Markov Chain Monte Carlo II]({{sites.baseurl}}/static/slides/btc_spring24/lec05.pdf) 
+- 03/11/2024: [Lecture 6 - Linear and Generalized Linear Models]({{sites.baseurl}}/static/slides/btc_spring24/lec06.pdf)
 
 
 
