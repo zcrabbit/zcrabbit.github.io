@@ -47,12 +47,14 @@ We will use python during the course. A good Python tutorial is available at <ht
 - 03/06/2024: [Lecture 5 - Markov Chain Monte Carlo II]({{sites.baseurl}}/static/slides/btc_spring24/lec05.pdf) 
 - 03/11/2024: [Lecture 6 - Linear and Generalized Linear Models]({{sites.baseurl}}/static/slides/btc_spring24/lec06.pdf)
 - 03/18/2024: [Lecture 7 - Decision Theory and Model Selection]({{sites.baseurl}}/static/slides/btc_spring24/lec07.pdf)  
-- 03/20/2024: [Lecture 8 - Importance Sampling]({{sites.baseurl}}/static/slides/btc_spring24/lec08.pdf)
+- 03/20/2024: [Lecture 8 - Importance Sampling]({{sites.baseurl}}/static/slides/btc_spring24/lec08.pdf)  
+- 03/25/2024: [Lecture 9 - Sequential Monte Carlo]({{sites.baseurl}}/static/slides/btc_spring24/lec09.pdf)
 
 
 
 ### Assignments
-- 03/06/2024: [Homework 1]({{sites.baseurl}}/static/slides/btc_spring24/hw01.pdf), **Due** `03/20/2024`
+- 03/06/2024: [Homework 1]({{sites.baseurl}}/static/slides/btc_spring24/hw01.pdf), **Due** `03/20/2024`  
+- 03/25/2024: [Homework 2]({{sites.baseurl}}/static/slides/btc_spring24/hw02.pdf), **Due** `04/08/2024`
 
 
 
