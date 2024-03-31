@@ -48,7 +48,8 @@ We will use python during the course. A good Python tutorial is available at <ht
 - 03/11/2024: [Lecture 6 - Linear and Generalized Linear Models]({{sites.baseurl}}/static/slides/btc_spring24/lec06.pdf)
 - 03/18/2024: [Lecture 7 - Decision Theory and Model Selection]({{sites.baseurl}}/static/slides/btc_spring24/lec07.pdf)  
 - 03/20/2024: [Lecture 8 - Importance Sampling]({{sites.baseurl}}/static/slides/btc_spring24/lec08.pdf)  
-- 03/25/2024: [Lecture 9 - Sequential Monte Carlo]({{sites.baseurl}}/static/slides/btc_spring24/lec09.pdf)
+- 03/25/2024: [Lecture 9 - Sequential Monte Carlo]({{sites.baseurl}}/static/slides/btc_spring24/lec09.pdf)  
+- 04/01/2024: [Lecture 10 - Advanced MCMC]({{sites.baseurl}}/static/slides/btc_spring24/lec10.pdf)
 
 
 
