@@ -50,7 +50,8 @@ We will use python during the course. A good Python tutorial is available at <ht
 - 03/20/2024: [Lecture 8 - Importance Sampling]({{sites.baseurl}}/static/slides/btc_spring24/lec08.pdf)  
 - 03/25/2024: [Lecture 9 - Sequential Monte Carlo]({{sites.baseurl}}/static/slides/btc_spring24/lec09.pdf)  
 - 04/01/2024: [Lecture 10 - Advanced MCMC]({{sites.baseurl}}/static/slides/btc_spring24/lec10.pdf)  
-- 04/03/2024: [Lecture 11 - Scalable MCMC]({{sites.baseurl}}/static/slides/btc_spring24/lec11.pdf)
+- 04/03/2024: [Lecture 11 - Scalable MCMC]({{sites.baseurl}}/static/slides/btc_spring24/lec11.pdf)  
+- 04/08/2024: [Lecture 12 - MCMC Theory]({{sites.baseurl}}/static/slides/btc_spring24/lec12.pdf)
 
 
 
