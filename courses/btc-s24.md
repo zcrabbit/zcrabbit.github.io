@@ -52,7 +52,8 @@ We will use python during the course. A good Python tutorial is available at <ht
 - 04/01/2024: [Lecture 10 - Advanced MCMC]({{sites.baseurl}}/static/slides/btc_spring24/lec10.pdf)  
 - 04/03/2024: [Lecture 11 - Scalable MCMC]({{sites.baseurl}}/static/slides/btc_spring24/lec11.pdf)  
 - 04/08/2024: [Lecture 12 - MCMC Theory]({{sites.baseurl}}/static/slides/btc_spring24/lec12.pdf)  
-- 04/15/2024: [Lecture 13 - Expectation Maximization]({{sites.baseurl}}/static/slides/btc_spring24/lec13.pdf)
+- 04/15/2024: [Lecture 13 - Expectation Maximization]({{sites.baseurl}}/static/slides/btc_spring24/lec13.pdf)  
+- 04/17/2024: [Lecture 14 - Variational EM]({{sites.baseurl}}/static/slides/btc_spring24/lec14.pdf)
 
 
 
