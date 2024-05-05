@@ -55,6 +55,7 @@ We will use python during the course. A good Python tutorial is available at <ht
 - 04/15/2024: [Lecture 13 - Expectation Maximization]({{sites.baseurl}}/static/slides/btc_spring24/lec13.pdf)  
 - 04/17/2024: [Lecture 14 - Variational EM]({{sites.baseurl}}/static/slides/btc_spring24/lec14.pdf)  
 - 04/22/2024: [Lecture 15 - Variational Inference]({{sites.baseurl}}/static/slides/btc_spring24/lec15.pdf)
+- 05/06/2024: [Lecture 16 - Stochastic Variational Inference]({{sites.baseurl}}/static/slides/btc_spring24/lec16.pdf)
 
 
 

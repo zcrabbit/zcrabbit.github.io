@@ -3,6 +3,18 @@ layout: page
 title: Publications
 ---
 
+- [Kernel Semi-Implicit Variational Inference](https://openreview.net/forum?id=w5oUo0LhO1)  
+Ziheng Cheng\*, Longlin Yu\*, Tianyu Xie, Shiyue Zhang, Cheng Zhang  
+_In Proceedings of the 41st International Conference on Machine Learning (ICML 2024)_, to appear.
+
+- [Reflected Flow Matching](https://openreview.net/forum?id=Sf5KYznS2G)    
+Tianyu Xie\*, Yu Zhu\*, Longlin Yu\*, Tong Yang, Ziheng Cheng, Shiyue Zhang, Xiangyu Zhang, Cheng Zhang  
+_In Proceedings of the 41st International Conference on Machine Learning (ICML 2024)_, to appear.
+
+- [Reduced-order Model-based Variational Inference with Normalizing Flows for Bayesian Elliptic Inverse Problems](https://www.sciencedirect.com/science/article/pii/S0377042723006039)  
+Zhizhang Wu, Cheng Zhang, Zhiwen Zhang  
+_Journal of Computational and Applied Mathematics, 441, 2024_
+
 - [Particle-based Variational Inference with Generalized Wasserstein Gradient Flow](https://openreview.net/pdf?id=oNuam8eFz2)  
 Ziheng Cheng\*, Shiyue Zhang\*, Longlin Yu, Cheng Zhang  
 _In Proceedings of the 37th Neural Information Processing Systems (NeurIPS 2023)_  
