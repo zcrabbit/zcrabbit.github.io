@@ -56,14 +56,16 @@ We will use python during the course. A good Python tutorial is available at <ht
 - 04/17/2024: [Lecture 14 - Variational EM]({{sites.baseurl}}/static/slides/btc_spring24/lec14.pdf)  
 - 04/22/2024: [Lecture 15 - Variational Inference]({{sites.baseurl}}/static/slides/btc_spring24/lec15.pdf)
 - 05/06/2024: [Lecture 16 - Stochastic Variational Inference]({{sites.baseurl}}/static/slides/btc_spring24/lec16.pdf)  
-- 05/13/2024: [Lecture 17 - Gaussian Processes]({{sites.baseurl}}/static/slides/btc_spring24/lec17.pdf)
+- 05/13/2024: [Lecture 17 - Gaussian Processes]({{sites.baseurl}}/static/slides/btc_spring24/lec17.pdf)  
+- 05/15/2024: [Lecture 18 - Dirichlet Processes]({{sites.baseurl}}/static/slides/btc_spring24/lec18.pdf)
 
 
 
 ### Assignments
 - 03/06/2024: [Homework 1]({{sites.baseurl}}/static/slides/btc_spring24/hw01.pdf), **Due** `03/20/2024`  
 - 03/25/2024: [Homework 2]({{sites.baseurl}}/static/slides/btc_spring24/hw02.pdf), **Due** `04/08/2024`  
-- 04/15/2024: [Homework 3]({{sites.baseurl}}/static/slides/btc_spring24/hw03.pdf), **Due** `04/29/2024`
+- 04/15/2024: [Homework 3]({{sites.baseurl}}/static/slides/btc_spring24/hw03.pdf), **Due** `04/29/2024`  
+- 05/15/2024: [Homework 4]({{sites.baseurl}}/static/slides/btc_spring24/hw04.pdf), **Due** `05/29/2024` &nbsp; Data: [p1]({{sites.baseurl}}/static/datasets/btc_hw4_lda_data.p), [p4]({{sites.baseurl}}/static/datasets/btc_hw4_dp_data.npy)
 
 
 
