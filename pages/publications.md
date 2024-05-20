@@ -3,6 +3,10 @@ layout: page
 title: Publications
 ---
 
+- [A Variational Approach to Bayesian Phylogenetic Inference](https://arxiv.org/pdf/2204.07747)  
+Cheng Zhang, Frederick A. Matsen IV.  
+_Journal of Machine Learning Research, 2024_, to appear.
+
 - [Kernel Semi-Implicit Variational Inference](https://openreview.net/forum?id=w5oUo0LhO1)  
 Ziheng Cheng\*, Longlin Yu\*, Tianyu Xie, Shiyue Zhang, Cheng Zhang  
 _In Proceedings of the 41st International Conference on Machine Learning (ICML 2024)_, to appear.

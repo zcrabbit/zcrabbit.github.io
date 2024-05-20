@@ -57,7 +57,8 @@ We will use python during the course. A good Python tutorial is available at <ht
 - 04/22/2024: [Lecture 15 - Variational Inference]({{sites.baseurl}}/static/slides/btc_spring24/lec15.pdf)
 - 05/06/2024: [Lecture 16 - Stochastic Variational Inference]({{sites.baseurl}}/static/slides/btc_spring24/lec16.pdf)  
 - 05/13/2024: [Lecture 17 - Gaussian Processes]({{sites.baseurl}}/static/slides/btc_spring24/lec17.pdf)  
-- 05/15/2024: [Lecture 18 - Dirichlet Processes]({{sites.baseurl}}/static/slides/btc_spring24/lec18.pdf)
+- 05/15/2024: [Lecture 18 - Dirichlet Processes]({{sites.baseurl}}/static/slides/btc_spring24/lec18.pdf)  
+- 05/20/2024: [Lecture 19 - Energy-based and Score-based Models]({{sites.baseurl}}/static/slides/btc_spring24/lec19.pdf)
 
 
 
@@ -98,7 +99,7 @@ You may structure your project exploration around a general problem type, algori
 | 12    |05/06 | Stochastic Variational Inference |         |
 | 13    |05/13 | Gaussian Processes, Sparse Gaussian Processes |       |
 |       |05/15 | Dirichlet Processes, DP Mixture Models |      |
-| 14    |05/20 | Project Presentation |              |
+| 14    |05/20 | Energy-based Models, Score-based Models |              |
 | 15    |05/27 | Project Presentation |    |
 |       |05/29 | Project Presentation |   |
 | 16    |06/03 | Project Presentation |    |
