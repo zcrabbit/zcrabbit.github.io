@@ -11,7 +11,7 @@ _Journal of Machine Learning Research, 2024_, to appear.
 Ziheng Cheng\*, Longlin Yu\*, Tianyu Xie, Shiyue Zhang, Cheng Zhang  
 _In Proceedings of the 41st International Conference on Machine Learning (ICML 2024)_, to appear.
 
-- [Reflected Flow Matching](https://openreview.net/forum?id=Sf5KYznS2G)    
+- [Reflected Flow Matching](https://arxiv.org/pdf/2405.16577)    
 Tianyu Xie\*, Yu Zhu\*, Longlin Yu\*, Tong Yang, Ziheng Cheng, Shiyue Zhang, Xiangyu Zhang, Cheng Zhang  
 _In Proceedings of the 41st International Conference on Machine Learning (ICML 2024)_, to appear.
 
