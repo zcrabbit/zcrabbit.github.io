@@ -3,9 +3,9 @@ layout: page
 title: Publications
 ---
 
-- [A Variational Approach to Bayesian Phylogenetic Inference](https://arxiv.org/pdf/2204.07747)  
+- [A Variational Approach to Bayesian Phylogenetic Inference](https://www.jmlr.org/papers/volume25/22-0348/22-0348.pdf)  
 Cheng Zhang, Frederick A. Matsen IV.  
-_Journal of Machine Learning Research, 2024_, to appear.
+_Journal of Machine Learning Research, 25(145), 2024, pp. 1-56_
 
 - [Kernel Semi-Implicit Variational Inference](https://arxiv.org/pdf/2405.18997)  
 Ziheng Cheng\*, Longlin Yu\*, Tianyu Xie, Shiyue Zhang, Cheng Zhang  
@@ -74,7 +74,7 @@ _In Proceedings of the 32th Neural Information Processing Systems (NeurIPS 2018,
 
 - [Variational Hamiltonian Monte Carlo via Score Matching](https://projecteuclid.org/download/pdfview_1/euclid.ba/1500948232)  
 Cheng Zhang, Babak Shahbaba, Hongkai Zhao  
-_Bayesian Analysis 13(2), 2018, pp. 486-506_
+_Bayesian Analysis, 13(2), 2018, pp. 486-506_
 
 - [Hamiltonian Monte Carlo Acceleration Using Surrogate Functions with Random Bases](https://arxiv.org/pdf/1506.05555.pdf)  
 Cheng Zhang, Babak Shahbaba, Hongkai Zhao  
