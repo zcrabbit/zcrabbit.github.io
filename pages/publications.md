@@ -9,11 +9,11 @@ _Journal of Machine Learning Research, 25(145), 2024, pp. 1-56_
 
 - [Kernel Semi-Implicit Variational Inference](https://arxiv.org/pdf/2405.18997)  
 Ziheng Cheng\*, Longlin Yu\*, Tianyu Xie, Shiyue Zhang, Cheng Zhang  
-_In Proceedings of the 41st International Conference on Machine Learning (ICML 2024)_, to appear.
+_In Proceedings of the 41st International Conference on Machine Learning (ICML 2024)_
 
 - [Reflected Flow Matching](https://arxiv.org/pdf/2405.16577)    
 Tianyu Xie\*, Yu Zhu\*, Longlin Yu\*, Tong Yang, Ziheng Cheng, Shiyue Zhang, Xiangyu Zhang, Cheng Zhang  
-_In Proceedings of the 41st International Conference on Machine Learning (ICML 2024)_, to appear.
+_In Proceedings of the 41st International Conference on Machine Learning (ICML 2024)_
 
 - [Reduced-order Model-based Variational Inference with Normalizing Flows for Bayesian Elliptic Inverse Problems](https://www.sciencedirect.com/science/article/pii/S0377042723006039)  
 Zhizhang Wu, Cheng Zhang, Zhiwen Zhang  
