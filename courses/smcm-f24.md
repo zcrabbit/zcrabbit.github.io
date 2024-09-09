@@ -7,7 +7,7 @@ author: Cheng Zhang
 
 ### Basic Info
 - Instructor: Cheng Zhang (<chengzhang@math.pku.edu.cn>)
-- Teaching Assistant: Shiyue Zhang (<zhangshiyue@stu.pku.edu.cn>) and Shizhe Kun (<2100010658@stu.pku.edu.cn>)
+- Teaching Assistant: Shiyue Zhang (<zhangshiyue@stu.pku.edu.cn>) and Zhekun Shi (<2100010658@stu.pku.edu.cn>)
 - Class times: Monday 3:10-5:00pm, Even Wednesday 1:00-2:50pm, Classroom Building No.3, Room 505  
 - Office hours: Thursday 3:00-5:00pm or by appointment, 315 Building No.20
 - [Syllabus]({{sites.baseurl}}/courses/Syllabus-smcm-f24.pdf)
