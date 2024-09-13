@@ -37,7 +37,8 @@ There will be `7` free late days in total, use them in your own ways. Afterwards
 We will use python during the course. A good Python tutorial is available at <http://www.scipy-lectures.org/>. You may also find another shorter tutorial useful at <http://cs231n.github.io/python-numpy-tutorial/>. If you have never used Python before, I recommend using Anaconda Python 3.7 <https://www.continuum.io/>.
 
 ### Lectures
-- 09/09/2024: [Lecture 1 - Introduction]({{sites.baseurl}}/static/slides/smcm_fall24/lec01.pdf)
+- 09/09/2024: [Lecture 1 - Introduction]({{sites.baseurl}}/static/slides/smcm_fall24/lec01.pdf)  
+- 09/14/2024: [Lecture 2 - Optimization]({{sites.baseurl}}/static/slides/smcm_fall24/lec02.pdf)  
 
 
 ### Assignments
