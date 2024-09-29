@@ -3,6 +3,18 @@ layout: page
 title: Publications
 ---
 
+- [Functional Gradient Flows for Constrained Sampling](https://openreview.net/pdf?id=kpo6ZCgVZH)  
+Shiyue Zhang\*, Longlin Yu\*, Ziheng Cheng\*, Cheng Zhang  
+_In Proceedings of the 38th Neural Information Processing Systems (NeurIPS 2024)_
+
+- [Improved Tree Probability Estimation with Stochastic Optimization and Variance Reduction](https://link.springer.com/article/10.1007/s11222-024-10498-2)  
+Tianyu Xie\*, Musu Yuan\*, Minghua Deng, Cheng Zhang  
+_Statistics and Computing, 34(186), 2024_
+
+- [Variational Supertrees for Bayesian Phylogenetics](https://link.springer.com/article/10.1007/s11538-024-01338-5)  
+Michael Karcher, Cheng Zhang, Frederick A. Matsen IV.  
+_Bulletin of Mathematical Biology, 86(114), 2024_ 
+
 - [A Variational Approach to Bayesian Phylogenetic Inference](https://www.jmlr.org/papers/volume25/22-0348/22-0348.pdf)  
 Cheng Zhang, Frederick A. Matsen IV.  
 _Journal of Machine Learning Research, 25(145), 2024, pp. 1-56_

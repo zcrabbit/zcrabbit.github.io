@@ -42,6 +42,7 @@ We will use python during the course. A good Python tutorial is available at <ht
   Textbook on convex optimization: <https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf> 
 - 09/18/2024: [Lecture 3 - Advanced Gradient Methods]({{sites.baseurl}}/static/slides/smcm_fall24/lec03.pdf)  
 - 09/23/2024: [Lecture 4 - Numerical Integration]({{sites.baseurl}}/static/slides/smcm_fall24/lec04.pdf)  
+- 09/30/2024: [Lecture 5 - Advanced Monte Carlo]({{sites.baseurl}}/static/slides/smcm_fall24/lec05.pdf)  
 
 ### Assignments
 - 09/23/2024: [Homework 1]({{sites.baseurl}}/static/slides/smcm_fall24/hw01.pdf), **Due** `10/07/2024`  
