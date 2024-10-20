@@ -44,10 +44,12 @@ We will use python during the course. A good Python tutorial is available at <ht
 - 09/23/2024: [Lecture 4 - Numerical Integration]({{sites.baseurl}}/static/slides/smcm_fall24/lec04.pdf)  
 - 09/30/2024: [Lecture 5 - Advanced Monte Carlo]({{sites.baseurl}}/static/slides/smcm_fall24/lec05.pdf)  
 - 10/14/2024, 10/16/2024: [Lecture 6, 7 - Markov Chain Monte Carlo]({{sites.baseurl}}/static/slides/smcm_fall24/lec0607.pdf)  
-  Handbook of Markov Chain Monte Carlo: <https://www.mcmchandbook.net>
+  Handbook of Markov Chain Monte Carlo: <https://www.mcmchandbook.net>  
+- 10/21/2024: [Lecture 8 - Advanced MCMC]({{sites.baseurl}}/static/slides/smcm_fall24/lec08.pdf) 
 
 ### Assignments
 - 09/23/2024: [Homework 1]({{sites.baseurl}}/static/slides/smcm_fall24/hw01.pdf), **Due** `10/07/2024`  
+- 10/21/2024: [Homework 2]({{sites.baseurl}}/static/slides/smcm_fall24/hw02.pdf), **Due** `11/04/2024` &nbsp; Data: [p3]({{sites.baseurl}}/static/datasets/probit_data.npy), [p4]({{sites.baseurl}}/static/datasets/mcs_hw2_p3_data.npy)  
 
 
 
