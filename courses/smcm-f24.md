@@ -46,6 +46,7 @@ We will use python during the course. A good Python tutorial is available at <ht
 - 10/14/2024, 10/16/2024: [Lecture 6, 7 - Markov Chain Monte Carlo]({{sites.baseurl}}/static/slides/smcm_fall24/lec0607.pdf)  
   Handbook of Markov Chain Monte Carlo: <https://www.mcmchandbook.net>  
 - 10/21/2024: [Lecture 8 - Advanced MCMC]({{sites.baseurl}}/static/slides/smcm_fall24/lec08.pdf) 
+- 10/28/2024: [Lecture 9 - Scalable MCMC]({{sites.baseurl}}/static/slides/smcm_fall24/lec09.pdf) 
 
 ### Assignments
 - 09/23/2024: [Homework 1]({{sites.baseurl}}/static/slides/smcm_fall24/hw01.pdf), **Due** `10/07/2024`  
