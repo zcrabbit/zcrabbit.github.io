@@ -48,7 +48,8 @@ We will use python during the course. A good Python tutorial is available at <ht
 - 10/21/2024: [Lecture 8 - Advanced MCMC]({{sites.baseurl}}/static/slides/smcm_fall24/lec08.pdf) 
 - 10/28/2024: [Lecture 9 - Scalable MCMC]({{sites.baseurl}}/static/slides/smcm_fall24/lec09.pdf) 
 - 10/30/2024: [Lecture 10 - Expectation Maximization]({{sites.baseurl}}/static/slides/smcm_fall24/lec10.pdf)  
-- 11/04/2024: [Lecture 11 - Advanced EM]({{sites.baseurl}}/static/slides/smcm_fall24/lec11.pdf)    
+- 11/04/2024: [Lecture 11 - Advanced EM]({{sites.baseurl}}/static/slides/smcm_fall24/lec11.pdf)  
+- 11/11/2024: [Lecture 12 - Variational EM]({{sites.baseurl}}/static/slides/smcm_fall24/lec12.pdf)  
 
 ### Assignments
 - 09/23/2024: [Homework 1]({{sites.baseurl}}/static/slides/smcm_fall24/hw01.pdf), **Due** `10/07/2024`  
