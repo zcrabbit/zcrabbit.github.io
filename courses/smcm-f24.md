@@ -51,10 +51,12 @@ We will use python during the course. A good Python tutorial is available at <ht
 - 11/04/2024: [Lecture 11 - Advanced EM]({{sites.baseurl}}/static/slides/smcm_fall24/lec11.pdf)  
 - 11/11/2024: [Lecture 12 - Variational EM]({{sites.baseurl}}/static/slides/smcm_fall24/lec12.pdf)  
 - 11/13/2024: [Lecture 13 - Variational Inference]({{sites.baseurl}}/static/slides/smcm_fall24/lec13.pdf) 
+- 11/18/2024: [Lecture 14 - Stochastic Variational Inference]({{sites.baseurl}}/static/slides/smcm_fall24/lec14.pdf)
 
 ### Assignments
 - 09/23/2024: [Homework 1]({{sites.baseurl}}/static/slides/smcm_fall24/hw01.pdf), **Due** `10/07/2024`  
 - 10/21/2024: [Homework 2]({{sites.baseurl}}/static/slides/smcm_fall24/hw02.pdf), **Due** `11/04/2024` &nbsp; Data: [p3]({{sites.baseurl}}/static/datasets/probit_data.npy), [p4]({{sites.baseurl}}/static/datasets/mcs_hw2_p3_data.npy)  
+- 11/18/2024: [Homework 3]({{sites.baseurl}}/static/slides/smcm_fall24/hw03.pdf), **Due** `12/02/2024` &nbsp; Data: [p2]({{sites.baseurl}}/static/datasets/absolute_gaussian_data.npy), [p3]({{sites.baseurl}}/static/datasets/btc_hw4_lda_data.p) 
 
 
 
