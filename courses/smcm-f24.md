@@ -55,7 +55,7 @@ We will use python during the course. A good Python tutorial is available at <ht
 - 11/25/2024: [Lecture 15 - Advanced VI - I]({{sites.baseurl}}/static/slides/smcm_fall24/lec15.pdf)  
 - 11/27/2024: [Lecture 16 - Advanced VI - II]({{sites.baseurl}}/static/slides/smcm_fall24/lec16.pdf)  
 - 12/02/2024: [Lecture 17 - Generative Models - I]({{sites.baseurl}}/static/slides/smcm_fall24/lec17.pdf)  
-- 12/09/2023: [Lecture 18 - Generative Models - II]({{sites.baseurl}}/static/slides/smcm_fall24/lec18.pdf) 
+- 12/09/2024: [Lecture 18 - Generative Models - II]({{sites.baseurl}}/static/slides/smcm_fall24/lec18.pdf) 
 
 ### Assignments
 - 09/23/2024: [Homework 1]({{sites.baseurl}}/static/slides/smcm_fall24/hw01.pdf), **Due** `10/07/2024`  
