@@ -41,6 +41,7 @@ We will use python during the course. A good Python tutorial is available at <ht
 
 ### Lectures
 - 02/17/2025: [Lecture 1 - Introduction]({{sites.baseurl}}/static/slides/btc_spring25/lec01.pdf)  
+- 02/19/2025: [Lecture 2 - Single and Multiple Parameter Models]({{sites.baseurl}}/static/slides/btc_spring25/lec02.pdf)  
 
 
 
