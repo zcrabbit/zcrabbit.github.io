@@ -44,10 +44,13 @@ We will use python during the course. A good Python tutorial is available at <ht
 - 02/19/2025: [Lecture 2 - Single and Multiple Parameter Models]({{sites.baseurl}}/static/slides/btc_spring25/lec02.pdf)  
 - 02/24/2025: [Lecture 3 - Monte Carlo Methods]({{sites.baseurl}}/static/slides/btc_spring25/lec03.pdf)  
 - 03/03/2025: [Lecture 4 - Markov Chain Monte Carlo I]({{sites.baseurl}}/static/slides/btc_spring25/lec04.pdf)  
+- 03/05/2025: [Lecture 5 - Markov Chain Monte Carlo II]({{sites.baseurl}}/static/slides/btc_spring25/lec05.pdf)   
 
 
 
 ### Assignments
+
+- 03/05/2025: [Homework 1]({{sites.baseurl}}/static/slides/btc_spring25/hw01.pdf), **Due** `03/19/2025`
 
 <!-- 
 - 03/06/2024: [Homework 1]({{sites.baseurl}}/static/slides/btc_spring24/hw01.pdf), **Due** `03/20/2024`
