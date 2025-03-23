@@ -47,6 +47,7 @@ We will use python during the course. A good Python tutorial is available at <ht
 - 03/05/2025: [Lecture 5 - Markov Chain Monte Carlo II]({{sites.baseurl}}/static/slides/btc_spring25/lec05.pdf)   
 - 03/17/2025: [Lecture 6 - Linear and Generalized Linear Models]({{sites.baseurl}}/static/slides/btc_spring25/lec06.pdf)  
 - 03/19/2025: [Lecture 7 - Decision Theory and Model Selection]({{sites.baseurl}}/static/slides/btc_spring25/lec07.pdf)  
+- 03/24/2025: [Lecture 8 - Importance Sampling]({{sites.baseurl}}/static/slides/btc_spring25/lec08.pdf)  
 
 
 
