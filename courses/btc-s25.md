@@ -49,12 +49,14 @@ We will use python during the course. A good Python tutorial is available at <ht
 - 03/19/2025: [Lecture 7 - Decision Theory and Model Selection]({{sites.baseurl}}/static/slides/btc_spring25/lec07.pdf)  
 - 03/24/2025: [Lecture 8 - Importance Sampling]({{sites.baseurl}}/static/slides/btc_spring25/lec08.pdf)  
 - 03/28/2025: [Lecture 9 - Sequential Monte Carlo]({{sites.baseurl}}/static/slides/btc_spring25/lec09.pdf)  
+- 03/31/2025: [Lecture 10 - Advanced MCMC]({{sites.baseurl}}/static/slides/btc_spring25/lec10.pdf)  
 
 
 
 ### Assignments
 
-- 03/05/2025: [Homework 1]({{sites.baseurl}}/static/slides/btc_spring25/hw01.pdf), **Due** `03/19/2025`
+- 03/05/2025: [Homework 1]({{sites.baseurl}}/static/slides/btc_spring25/hw01.pdf), **Due** `03/19/2025`  
+- 03/31/2025: [Homework 2]({{sites.baseurl}}/static/slides/btc_spring25/hw02.pdf), **Due** `04/14/2025`
 
 <!-- 
 - 03/06/2024: [Homework 1]({{sites.baseurl}}/static/slides/btc_spring24/hw01.pdf), **Due** `03/20/2024`
