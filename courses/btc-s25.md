@@ -51,6 +51,7 @@ We will use python during the course. A good Python tutorial is available at <ht
 - 03/28/2025: [Lecture 9 - Sequential Monte Carlo]({{sites.baseurl}}/static/slides/btc_spring25/lec09.pdf)  
 - 03/31/2025: [Lecture 10 - Advanced MCMC]({{sites.baseurl}}/static/slides/btc_spring25/lec10.pdf)  
 - 04/02/2025: [Lecture 11 - Scalable MCMC]({{sites.baseurl}}/static/slides/btc_spring25/lec11.pdf)  
+- 04/07/2025: [Lecture 12 - MCMC Theory]({{sites.baseurl}}/static/slides/btc_spring25/lec12.pdf)  
 
 
 
