@@ -54,13 +54,15 @@ We will use python during the course. A good Python tutorial is available at <ht
 - 04/07/2025: [Lecture 12 - MCMC Theory]({{sites.baseurl}}/static/slides/btc_spring25/lec12.pdf)  
 - 04/14/2025: [Lecture 13 - Expectation Maximization]({{sites.baseurl}}/static/slides/btc_spring25/lec13.pdf)  
 - 04/16/2025: [Lecture 14 - Variational EM]({{sites.baseurl}}/static/slides/btc_spring25/lec14.pdf)  
+- 04/21/2025: [Lecture 15 - Variational Inference]({{sites.baseurl}}/static/slides/btc_spring25/lec15.pdf)  
 
 
 
 ### Assignments
 
 - 03/05/2025: [Homework 1]({{sites.baseurl}}/static/slides/btc_spring25/hw01.pdf), **Due** `03/19/2025`  
-- 03/31/2025: [Homework 2]({{sites.baseurl}}/static/slides/btc_spring25/hw02.pdf), **Due** `04/14/2025`
+- 03/31/2025: [Homework 2]({{sites.baseurl}}/static/slides/btc_spring25/hw02.pdf), **Due** `04/14/2025`  
+- 04/21/2025: [Homework 3]({{sites.baseurl}}/static/slides/btc_spring24/hw03.pdf), **Due** `05/12/2025`  
 
 <!-- 
 - 03/06/2024: [Homework 1]({{sites.baseurl}}/static/slides/btc_spring24/hw01.pdf), **Due** `03/20/2024`
@@ -99,7 +101,7 @@ You may structure your project exploration around a general problem type, algori
 | 12    |05/05 |  -- |  Labour Day       |
 | 13    |05/12 | Dirichlet Processes, DP Mixture Models   |      |
 |       |05/14 | Energy-based Models, Score-based Models |      |
-| 14    |05/29 | Project Presentation |              |
+| 14    |05/19 | Project Presentation |              |
 | 15    |05/26 | Project Presentation |    |
 |       |05/28 | Project Presentation |   |
 | 16    |06/02 | Project Presentation |    |
