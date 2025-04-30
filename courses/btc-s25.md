@@ -56,6 +56,7 @@ We will use python during the course. A good Python tutorial is available at <ht
 - 04/16/2025: [Lecture 14 - Variational EM]({{sites.baseurl}}/static/slides/btc_spring25/lec14.pdf)  
 - 04/21/2025: [Lecture 15 - Variational Inference]({{sites.baseurl}}/static/slides/btc_spring25/lec15.pdf)  
 - 04/28/2025: [Lecture 16 - Stochastic Variational Inference]({{sites.baseurl}}/static/slides/btc_spring25/lec16.pdf)  
+- 04/30/2025: [Lecture 17 - Gaussian Processes]({{sites.baseurl}}/static/slides/btc_spring25/lec17.pdf)    
 
 
 
