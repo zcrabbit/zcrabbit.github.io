@@ -3,9 +3,17 @@ layout: page
 title: Publications
 ---
 
+- [Continuous Semi-Implicit Models]()  
+Longlin Yu, Jiajun Zha, Tong Yang, Tianyu Xie, Xiangyu Zhang, S.-H. Chan, Cheng Zhang  
+_In Proceedings of the 42nd International Conference on Machine Learning (ICML 2025)_
+
 - [PhyloVAE: Unsupervise Learning of Phylogenetic Trees via Variational Autoencoders](https://openreview.net/pdf?id=Z8TglKXDWm)  
 Tianyu Xie, Harry Richman, Jiansi Gao, Frederick A. Matsen IV, Cheng Zhang  
 _In Proceedings of the 13th International Conference on Learning Representations (ICLR 2025)_
+
+- [Finding High Posterior Denisty Phylogenies by Systematically Extending a Directed Acyclic Graph](https://almob.biomedcentral.com/articles/10.1186/s13015-025-00273-x)  
+Chris Jennings-Shaffer, David H. Rich, Matthew Macaulay, Michael D. Karcher, Tanvi Ganapathy, Shosuke Kiami, Anna Kooperberg, Cheng Zhang, Marc A. Suchard, Frederick A. Matsen IV  
+_Algorithms for Molecular Biology, 20(2), 2025_
 
 - [Functional Gradient Flows for Constrained Sampling](https://openreview.net/pdf?id=kpo6ZCgVZH)  
 Shiyue Zhang\*, Longlin Yu\*, Ziheng Cheng\*, Cheng Zhang  

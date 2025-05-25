@@ -66,7 +66,8 @@ We will use python during the course. A good Python tutorial is available at <ht
 
 - 03/05/2025: [Homework 1]({{sites.baseurl}}/static/slides/btc_spring25/hw01.pdf), **Due** `03/19/2025`  
 - 03/31/2025: [Homework 2]({{sites.baseurl}}/static/slides/btc_spring25/hw02.pdf), **Due** `04/14/2025`  
-- 04/21/2025: [Homework 3]({{sites.baseurl}}/static/slides/btc_spring24/hw03.pdf), **Due** `05/12/2025`  
+- 04/21/2025: [Homework 3]({{sites.baseurl}}/static/slides/btc_spring25/hw03.pdf), **Due** `05/12/2025`  
+- 05/26/2025: [Homework 4]({{sites.baseurl}}/static/slides/btc_spring25/hw4.pdf), **Due** `06/09/2025` &nbsp; Data: [p1]({{sites.baseurl}}/static/datasets/btc_hw4_lda_data.p), [p4]({{sites.baseurl}}/static/datasets/btc_hw4_dp_data.npy)
 
 <!-- 
 - 03/06/2024: [Homework 1]({{sites.baseurl}}/static/slides/btc_spring24/hw01.pdf), **Due** `03/20/2024`
@@ -108,4 +109,4 @@ You may structure your project exploration around a general problem type, algori
 | 14    |05/19 | Project Presentation |              |
 | 15    |05/26 | Project Presentation |    |
 |       |05/28 | Project Presentation |   |
-| 16    |06/02 | Project Presentation |    |
+| 16    |06/02 | -- |  Dragon Boat Festival   |
