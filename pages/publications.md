@@ -4,7 +4,7 @@ title: Publications
 ---
 
 - [Continuous Semi-Implicit Models](https://arxiv.org/pdf/2506.06778)  
-Longlin Yu, Jiajun Zha, Tong Yang, Tianyu Xie, Xiangyu Zhang, S.-H. Chan, Cheng Zhang  
+Longlin Yu\*, Jiajun Zha\*, Tong Yang, Tianyu Xie, Xiangyu Zhang, S.-H. Chan, Cheng Zhang  
 _In Proceedings of the 42nd International Conference on Machine Learning (ICML 2025)_
 
 - [PhyloVAE: Unsupervised Learning of Phylogenetic Trees via Variational Autoencoders](https://openreview.net/pdf?id=Z8TglKXDWm)  
