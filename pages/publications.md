@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-- [Continuous Semi-Implicit Models](https://arxiv.org/abs/2506.06778)  
+- [Continuous Semi-Implicit Models](https://arxiv.org/pdf/2506.06778)  
 Longlin Yu, Jiajun Zha, Tong Yang, Tianyu Xie, Xiangyu Zhang, S.-H. Chan, Cheng Zhang  
 _In Proceedings of the 42nd International Conference on Machine Learning (ICML 2025)_
 
@@ -91,7 +91,7 @@ Cheng Zhang, Frederick A. Matsen IV.
 _In Proceedings of the 7th International Conference on Learning Representations (ICLR 2019)_  
 [[poster]]({{site.baseurl}}/static/posters/vbpi_iclr_poster.pdf)
 
-- [Generalizing Tree Probability Estimation via Bayesian Networks](https://arxiv.org/abs/1805.07834)  
+- [Generalizing Tree Probability Estimation via Bayesian Networks](https://papers.nips.cc/paper_files/paper/2018/file/b137fdd1f79d56c7edf3365fea7520f2-Paper.pdf)  
 Cheng Zhang, Frederick A. Matsen IV  
 _In Proceedings of the 32th Neural Information Processing Systems (NeurIPS 2018, spotlight presentation)_    
 [[code]](https://github.com/zcrabbit/sbn) [[poster]]({{site.baseurl}}/static/posters/sbn_nips_poster.pdf)
