@@ -3,6 +3,9 @@ layout: page
 title: Courses
 ---
 
+- [Statistical Models and Computing Methods]({{sites.baseurl}}/courses/smcm-f25.html)   
+Fall, 2025
+
 - [Bayesian Theory and Computation]({{sites.baseurl}}/courses/btc-s25.html)  
 Spring, 2025
 
