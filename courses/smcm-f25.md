@@ -39,6 +39,9 @@ We will use python during the course. A good Python tutorial is available at <ht
 ### Lectures
 - 09/08/2025: [Lecture 1 - Introduction]({{sites.baseurl}}/static/slides/smcm_fall25/lec01.pdf)  
 - 09/15/2025: [Lecture 2 - Optimization]({{sites.baseurl}}/static/slides/smcm_fall25/lec02.pdf)  
+  Textbook on convex optimization: <https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf> 
+- 09/17/2025: [Lecture 3 - Advanced Gradient Methods]({{sites.baseurl}}/static/slides/smcm_fall25/lec03.pdf)  
+
 
 ### Assignments
 
