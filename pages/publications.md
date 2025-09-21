@@ -3,6 +3,10 @@ layout: page
 title: Publications
 ---
 
+- [Provable Sample-Efficient Transfer Learning Conditional Diffusion Models via Representation Learning](https://arxiv.org/pdf/2502.04491)  
+Ziheng Cheng, Tianyu Xie, Shiyue Zhang, Cheng Zhang  
+_In Proceedings of the 39th Neural Information Processing Systems (NeurIPS 2025)_
+
 - [Continuous Semi-Implicit Models](https://arxiv.org/pdf/2506.06778)  
 Longlin Yu\*, Jiajun Zha\*, Tong Yang, Tianyu Xie, Xiangyu Zhang, S.-H. Chan, Cheng Zhang  
 _In Proceedings of the 42nd International Conference on Machine Learning (ICML 2025)_
