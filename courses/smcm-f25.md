@@ -45,6 +45,7 @@ We will use python during the course. A good Python tutorial is available at <ht
 
 
 ### Assignments
+- 09/22/2025: [Homework 1]({{sites.baseurl}}/static/slides/smcm_fall25/hw01.pdf), **Due** `10/13/2025` 
 
 
 
