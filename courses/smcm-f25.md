@@ -50,6 +50,7 @@ We will use python during the course. A good Python tutorial is available at <ht
 - 10/29/2025: [Lecture 10 - Expectation Maximization]({{sites.baseurl}}/static/slides/smcm_fall25/lec10.pdf)  
 - 11/03/2025: [Lecture 11 - Advanced EM]({{sites.baseurl}}/static/slides/smcm_fall25/lec11.pdf)  
 - 11/10/2025: [Lecture 12 - Variational EM]({{sites.baseurl}}/static/slides/smcm_fall25/lec12.pdf)  
+- 11/12/2025: [Lecture 13 - Variational Inference]({{sites.baseurl}}/static/slides/smcm_fall25/lec13.pdf)  
 
 ### Assignments
 - 09/22/2025: [Homework 1]({{sites.baseurl}}/static/slides/smcm_fall25/hw01.pdf), **Due** `10/13/2025` 
