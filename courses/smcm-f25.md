@@ -52,6 +52,7 @@ We will use python during the course. A good Python tutorial is available at <ht
 - 11/10/2025: [Lecture 12 - Variational EM]({{sites.baseurl}}/static/slides/smcm_fall25/lec12.pdf)  
 - 11/12/2025: [Lecture 13 - Variational Inference]({{sites.baseurl}}/static/slides/smcm_fall25/lec13.pdf)  
 - 11/17/2025: [Lecture 14 - Stochastic Variational Inference]({{sites.baseurl}}/static/slides/smcm_fall25/lec14.pdf)  
+- 11/24/2025: [Lecture 15 - Advanced VI - I]({{sites.baseurl}}/static/slides/smcm_fall25/lec15.pdf)  
 
 ### Assignments
 - 09/22/2025: [Homework 1]({{sites.baseurl}}/static/slides/smcm_fall25/hw01.pdf), **Due** `10/13/2025` 
