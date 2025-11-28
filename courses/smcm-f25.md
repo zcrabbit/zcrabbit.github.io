@@ -54,6 +54,7 @@ We will use python during the course. A good Python tutorial is available at <ht
 - 11/17/2025: [Lecture 14 - Stochastic Variational Inference]({{sites.baseurl}}/static/slides/smcm_fall25/lec14.pdf)  
 - 11/24/2025: [Lecture 15 - Advanced VI - I]({{sites.baseurl}}/static/slides/smcm_fall25/lec15.pdf)  
 - 11/26/2025: [Lecture 16 - Advanced VI - II]({{sites.baseurl}}/static/slides/smcm_fall25/lec16.pdf)  
+- 12/01/2025: [Lecture 17 - Generative Models - I]({{sites.baseurl}}/static/slides/smcm_fall25/lec17.pdf)  
 
 ### Assignments
 - 09/22/2025: [Homework 1]({{sites.baseurl}}/static/slides/smcm_fall25/hw01.pdf), **Due** `10/13/2025` 
