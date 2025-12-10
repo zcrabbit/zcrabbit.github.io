@@ -3,6 +3,10 @@ layout: page
 title: Publications
 ---
 
+- [ARTreeFormer: A faster attention-based autoregressive model for phylogenetic inference](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013768)  
+Tianyu Xie, Yicong Mao, Cheng Zhang  
+_PLOS Computational Biology, 21(12), 2025_
+
 - [Provable Sample-Efficient Transfer Learning Conditional Diffusion Models via Representation Learning](https://arxiv.org/pdf/2502.04491)  
 Ziheng Cheng, Tianyu Xie, Shiyue Zhang, Cheng Zhang  
 _In Proceedings of the 39th Neural Information Processing Systems (NeurIPS 2025)_
