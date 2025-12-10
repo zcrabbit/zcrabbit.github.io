@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-- [ARTreeFormer: A faster attention-based autoregressive model for phylogenetic inference](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013768)  
+- [ARTreeFormer: A Faster Attention-based Autoregressive Model for Phylogenetic Inference](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013768)  
 Tianyu Xie, Yicong Mao, Cheng Zhang  
 _PLOS Computational Biology, 21(12), 2025_
 
