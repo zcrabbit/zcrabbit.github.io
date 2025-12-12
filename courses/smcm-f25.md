@@ -61,6 +61,7 @@ We will use python during the course. A good Python tutorial is available at <ht
 - 09/22/2025: [Homework 1]({{sites.baseurl}}/static/slides/smcm_fall25/hw01.pdf), **Due** `10/13/2025` 
 - 10/27/2025: [Homework 2]({{sites.baseurl}}/static/slides/smcm_fall25/hw02.pdf), **Due** `11/10/2025` &nbsp; Data: [p3]({{sites.baseurl}}/static/datasets/probit_data.npy), [p4]({{sites.baseurl}}/static/datasets/mcs_hw2_p3_data.npy) 
 - 11/17/2025: [Homework 3]({{sites.baseurl}}/static/slides/smcm_fall25/hw03.pdf), **Due** `12/01/2025` &nbsp; Data: [p2]({{sites.baseurl}}/static/datasets/absolute_gaussian_data.npy), [p3]({{sites.baseurl}}/static/datasets/btc_hw4_lda_data.p) 
+- 12/12/2025: [Homework 4]({{sites.baseurl}}/static/slides/smcm_fall25/hw04.pdf), **Due** `12/28/2025` &nbsp; Data: [p3]({{sites.baseurl}}/static/datasets/banana_shape_data.npy)
 
 
 
