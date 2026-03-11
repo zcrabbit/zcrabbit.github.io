@@ -5,7 +5,7 @@ title: Publications
 
 - [Variational Autoencoding Discrete Diffusion with Enhanced Dimensional Correlations Modeling](https://openreview.net/pdf?id=yh7MV2V0ba)  
 Tianyu Xie, Shuchen Xue, Zijin Feng, Tianyang Hu, Jiacheng Sun, Zhenguo Li, Cheng Zhang  
-_In Proceedings of the 13th International Conference on Learning Representations (ICLR 2026)_
+_In Proceedings of the 14th International Conference on Learning Representations (ICLR 2026)_
 
 - [ARTreeFormer: A Faster Attention-based Autoregressive Model for Phylogenetic Inference](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013768)  
 Tianyu Xie, Yicong Mao, Cheng Zhang  
